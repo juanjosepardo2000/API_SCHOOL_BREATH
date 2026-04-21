@@ -1,0 +1,774 @@
+[
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c01” },
+    “category”: “general”,
+    “question”: “What is The School of Breath?”,
+    “answer”: “The School of Breath is a platform and mobile app that teaches evidence-informed breathing, meditation, and yogic practices to improve sleep, focus, energy, and emotional regulation. It combines traditional pranayama and modern behavioral science into short, guided sessions and structured courses.”,
+    “backgroundColor”: “#E8D1D1”,
+    “createdAt”: { “$date”: “2025-04-26T03:00:11.617Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “school of breath”,
+    “about”,
+    “breathwork”,
+    “pranayama”,
+    “meditation”,
+    “mindfulness”,
+    “wellbeing”,
+    “yogic wisdom”,
+    “mobile app”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:00.000Z” },
+    “views”: 35,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c02” },
+    { “$oid”: “680c4c3b533ecbc3f9625c03” },
+    { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    { “$oid”: “680c4c3b533ecbc3f9625c08” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c01”,
+    “slug”: “what-is-the-school-of-breath”,
+    “shortcuts”: [
+    “Mission and philosophy”,
+    “Who is Abhi Duggal”,
+    “App features overview”,
+    “Available courses”,
+    “Is it suitable for beginners”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-the-mission-of-the-school-of-breath”,
+    “who-is-abhi-duggal”,
+    “what-features-does-the-app-include”,
+    “what-courses-are-available”,
+    “are-the-sessions-suitable-for-beginners”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c02” },
+    “category”: “general”,
+    “question”: “What is the mission of The School of Breath?”,
+    “answer”: “Enable people to self-regulate stress and unlock clarity using simple daily breath practices. The app focuses on accessible routines, measured progress, and respectful integration of yogic wisdom with modern science.”,
+    “backgroundColor”: “#E8D1D1”,
+    “createdAt”: { “$date”: “2025-04-26T03:02:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “mission”,
+    “vision”,
+    “philosophy”,
+    “values”,
+    “science and tradition”,
+    “daily practice”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:05.000Z” },
+    “views”: 24,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c01” },
+    { “$oid”: “680c4c3b533ecbc3f9625c08” },
+    { “$oid”: “680c4c3b533ecbc3f9625c09” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c02”,
+    “slug”: “what-is-the-mission-of-the-school-of-breath”,
+    “shortcuts”: [
+    “Founding intent”,
+    “How we teach”,
+    “Why daily practice matters”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-the-school-of-breath”,
+    “what-is-the-science-behind-breathwork”,
+    “who-should-avoid-or-modify-practices”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c03” },
+    “category”: “general”,
+    “question”: “Who is Abhi Duggal?”,
+    “answer”: “Abhi Duggal is the creator and lead teacher at The School of Breath. He curates guided breath sequences, courses, and talks that blend classical pranayama with practical, neuroscience-aware instruction designed for busy people.”,
+    “backgroundColor”: “#E8D1D1”,
+    “createdAt”: { “$date”: “2025-05-10T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “abhi”,
+    “abhi duggal”,
+    “founder”,
+    “teacher”,
+    “instructor”,
+    “profile”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:10.000Z” },
+    “views”: 19,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c01” },
+    { “$oid”: “680c4c3b533ecbc3f9625c04” },
+    { “$oid”: “680c4c3b533ecbc3f9625c06” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c03”,
+    “slug”: “who-is-abhi-duggal”,
+    “shortcuts”: [
+    “Background”,
+    “Teaching approach”,
+    “Courses by Abhi”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-the-school-of-breath”,
+    “how-do-i-get-started-in-the-app”,
+    “what-courses-are-available”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c04” },
+    “category”: “getting-started”,
+    “question”: “How do I get started in the app?”,
+    “answer”: “1) Download the app on iOS or Android and create an account. 2) Open Home to run a 3–7 minute daily session. 3) Visit Courses to pick a path like 9-Day Breathwork, Restful Sleep, or Swara Yoga. 4) Use Today or Continue to resume where you left off. 5) Turn on reminders in Settings to keep the streak.”,
+    “backgroundColor”: “#D1E8E2”,
+    “createdAt”: { “$date”: “2025-06-01T08:30:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “get started”,
+    “onboarding”,
+    “beginner”,
+    “daily session”,
+    “reminders”,
+    “streak”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:12.000Z” },
+    “views”: 52,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c03” },
+    { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    { “$oid”: “680c4c3b533ecbc3f9625c10” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c04”,
+    “slug”: “how-do-i-get-started-in-the-app”,
+    “shortcuts”: [
+    “Create an account”,
+    “Pick a first course”,
+    “Enable reminders”
+    ],
+    “relatedFaqSlugs”: [
+    “who-is-abhi-duggal”,
+    “what-features-does-the-app-include”,
+    “how-do-i-fix-audio-or-video-issues”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    “category”: “app”,
+    “question”: “What features does the app include?”,
+    “answer”: “Core features:\n- Home: quick daily breath sessions.\n- Courses: structured paths like 9-Day Breathwork and Restful Sleep.\n- Course Detail: lesson list, progress, and guidance.\n- Reminders: notifications to keep consistency.\n- Offline friendly: download lessons when available.\n- Search: find sessions by goal, duration, or technique.”,
+    “backgroundColor”: “#D1DDE8”,
+    “createdAt”: { “$date”: “2025-06-05T10:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “features”,
+    “home screen”,
+    “courses”,
+    “progress”,
+    “reminders”,
+    “offline”,
+    “search”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:15.000Z” },
+    “views”: 41,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c04” },
+    { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    { “$oid”: “680c4c3b533ecbc3f9625c10” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c05”,
+    “slug”: “what-features-does-the-app-include”,
+    “shortcuts”: [
+    “Daily session”,
+    “Course library”,
+    “Notifications”
+    ],
+    “relatedFaqSlugs”: [
+    “how-do-i-get-started-in-the-app”,
+    “what-courses-are-available”,
+    “how-do-i-fix-audio-or-video-issues”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    “category”: “courses”,
+    “question”: “What courses are available?”,
+    “answer”: “Current catalog includes:\n- 9-Day Breathwork Course: foundational daily sequences.\n- Restful Sleep: evening wind-down and nervous-system downshift.\n- Swara Yoga: nostril-flow awareness and balancing practices.\n- Standard Breath Sessions: quick resets for energy, calm, or focus.\nNew courses are added over time in the Courses tab.”,
+    “backgroundColor”: “#E8E1D1”,
+    “createdAt”: { “$date”: “2025-06-06T09:15:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “courses”,
+    “catalog”,
+    “9 day”,
+    “restful sleep”,
+    “swara yoga”,
+    “standard breath”,
+    “library”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:18.000Z” },
+    “views”: 46,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    { “$oid”: “680c4c3b533ecbc3f9625c07” },
+    { “$oid”: “680c4c3b533ecbc3f9625c09” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c06”,
+    “slug”: “what-courses-are-available”,
+    “shortcuts”: [
+    “9-Day Breathwork overview”,
+    “Restful Sleep overview”,
+    “Swara Yoga overview”
+    ],
+    “relatedFaqSlugs”: [
+    “how-do-course-progress-and-streaks-work”,
+    “are-the-sessions-suitable-for-beginners”,
+    “who-should-avoid-or-modify-practices”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c07” },
+    “category”: “courses”,
+    “question”: “How do course progress and streaks work?”,
+    “answer”: “Each course contains lessons that unlock in order. When you complete a lesson it marks as done and the next lesson becomes available. Your daily streak increases when you complete at least one session in a calendar day. Missed days simply reset the streak; your course progress is preserved.”,
+    “backgroundColor”: “#E8E1D1”,
+    “createdAt”: { “$date”: “2025-06-10T07:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “progress”,
+    “streaks”,
+    “unlock”,
+    “lessons”,
+    “resume”,
+    “continue”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:22.000Z” },
+    “views”: 28,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    { “$oid”: “680c4c3b533ecbc3f9625c04” },
+    { “$oid”: “680c4c3b533ecbc3f9625c10” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c07”,
+    “slug”: “how-do-course-progress-and-streaks-work”,
+    “shortcuts”: [
+    “Unlocking lessons”,
+    “Resuming a course”,
+    “Daily streak rules”
+    ],
+    “relatedFaqSlugs”: [
+    “what-courses-are-available”,
+    “how-do-i-get-started-in-the-app”,
+    “how-do-i-fix-audio-or-video-issues”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c08” },
+    “category”: “science”,
+    “question”: “What is the science behind breathwork?”,
+    “answer”: “Slow nasal breathing with extended exhales can reduce sympathetic arousal and support heart-rate variability. Light breath-holds and diaphragmatic patterns can improve CO₂ tolerance and perceived calm. The app favors low-risk protocols: slow pace, nasal inhale, relaxed exhale, and gradual progression.”,
+    “backgroundColor”: “#E1F7E7”,
+    “createdAt”: { “$date”: “2025-06-12T12:20:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “science”,
+    “neuroscience”,
+    “HRV”,
+    “CO2 tolerance”,
+    “parasympathetic”,
+    “vagus”,
+    “nasal breathing”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:25.000Z” },
+    “views”: 33,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c02” },
+    { “$oid”: “680c4c3b533ecbc3f9625c09” },
+    { “$oid”: “680c4c3b533ecbc3f9625c06” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c08”,
+    “slug”: “what-is-the-science-behind-breathwork”,
+    “shortcuts”: [
+    “HRV basics”,
+    “CO₂ and breath-holds”,
+    “Why nasal breathing”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-the-mission-of-the-school-of-breath”,
+    “who-should-avoid-or-modify-practices”,
+    “what-courses-are-available”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c09” },
+    “category”: “safety”,
+    “question”: “Who should avoid or modify practices?”,
+    “answer”: “If you are pregnant, have severe cardiovascular or respiratory disease, uncontrolled hypertension, glaucoma, recent surgery, epilepsy, or panic disorder, use only gentle, slow breathing and avoid strong breath-holds or forceful techniques. Practice seated or lying down, never while driving, in water, or operating machinery. When in doubt consult a qualified clinician.”,
+    “backgroundColor”: “#FFE8CC”,
+    “createdAt”: { “$date”: “2025-06-12T12:25:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “contraindications”,
+    “safety”,
+    “health conditions”,
+    “pregnancy”,
+    “breath hold”,
+    “hyperventilation”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:29.000Z” },
+    “views”: 57,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c08” },
+    { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    { “$oid”: “680c4c3b533ecbc3f9625c11” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c09”,
+    “slug”: “who-should-avoid-or-modify-practices”,
+    “shortcuts”: [
+    “When to skip breath-holds”,
+    “Practice positions”,
+    “Medical advice”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-the-science-behind-breathwork”,
+    “what-courses-are-available”,
+    “how-is-my-data-and-privacy-protected”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c0a” },
+    “category”: “troubleshooting”,
+    “question”: “How do I fix audio or video issues?”,
+    “answer”: “1) Check device volume and silent switch. 2) Use wired or Bluetooth audio then reconnect. 3) On Android clear app cache; on iOS force-quit and relaunch. 4) Toggle Airplane Mode off and confirm network. 5) Update to the latest app version. 6) If downloaded content fails, remove the download and fetch again. If issues persist send logs via Settings → Help.”,
+    “backgroundColor”: “#FFE1E1”,
+    “createdAt”: { “$date”: “2025-06-15T06:40:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “audio”,
+    “video”,
+    “bug”,
+    “cache”,
+    “bluetooth”,
+    “downloads”,
+    “offline”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:33.000Z” },
+    “views”: 21,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    { “$oid”: “680c4c3b533ecbc3f9625c07” },
+    { “$oid”: “680c4c3b533ecbc3f9625c13” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c0a”,
+    “slug”: “how-do-i-fix-audio-or-video-issues”,
+    “shortcuts”: [
+    “Clear cache”,
+    “Re-download lessons”,
+    “Send app logs”
+    ],
+    “relatedFaqSlugs”: [
+    “what-features-does-the-app-include”,
+    “how-do-course-progress-and-streaks-work”,
+    “which-devices-and-os-are-supported”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c0b” },
+    “category”: “billing”,
+    “question”: “How do subscriptions, trials, and refunds work?”,
+    “answer”: “Subscriptions are managed by the App Store or Google Play under your Apple ID or Google account. Free trials convert to paid unless canceled before the trial ends. Refunds are issued by Apple or Google per their policies; open your store purchase history to request one. Canceling stops future charges and you keep access until the current period ends.”,
+    “backgroundColor”: “#F6E1E1”,
+    “createdAt”: { “$date”: “2025-06-18T09:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “billing”,
+    “subscription”,
+    “trial”,
+    “refund”,
+    “cancel”,
+    “app store”,
+    “google play”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:36.000Z” },
+    “views”: 44,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c11” },
+    { “$oid”: “680c4c3b533ecbc3f9625c13” },
+    { “$oid”: “680c4c3b533ecbc3f9625c05” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c0b”,
+    “slug”: “how-do-subscriptions-trials-and-refunds-work”,
+    “shortcuts”: [
+    “Cancel subscription”,
+    “Request a refund”,
+    “Manage trial”
+    ],
+    “relatedFaqSlugs”: [
+    “how-is-my-data-and-privacy-protected”,
+    “which-devices-and-os-are-supported”,
+    “what-features-does-the-app-include”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c0c” },
+    “category”: “privacy”,
+    “question”: “How is my data and privacy protected?”,
+    “answer”: “We collect the minimum needed to run the app: account info, session completions, and device analytics. Payment data is handled by Apple or Google. You can delete your account and associated data from Settings → Account. We do not sell personal data. See the in-app Privacy Policy for full details.”,
+    “backgroundColor”: “#EDE1F7”,
+    “createdAt”: { “$date”: “2025-06-20T11:45:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “privacy”,
+    “data”,
+    “GDPR”,
+    “delete account”,
+    “analytics”,
+    “policy”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:40.000Z” },
+    “views”: 39,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c0b” },
+    { “$oid”: “680c4c3b533ecbc3f9625c11” },
+    { “$oid”: “680c4c3b533ecbc3f9625c13” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c0c”,
+    “slug”: “how-is-my-data-and-privacy-protected”,
+    “shortcuts”: [
+    “Delete my account”,
+    “Payment data”,
+    “Analytics controls”
+    ],
+    “relatedFaqSlugs”: [
+    “how-do-subscriptions-trials-and-refunds-work”,
+    “can-i-use-the-app-offline”,
+    “which-devices-and-os-are-supported”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c0d” },
+    “category”: “community”,
+    “question”: “How do I join live sessions or the community?”,
+    “answer”: “Check Home and Courses for scheduled drops. Turn on push notifications to get alerts. Join the newsletter from the Profile or Settings area to receive links to occasional live practices and challenges.”,
+    “backgroundColor”: “#E8F0D1”,
+    “createdAt”: { “$date”: “2025-06-22T15:10:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “community”,
+    “live”,
+    “events”,
+    “newsletter”,
+    “challenges”,
+    “push notifications”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:44.000Z” },
+    “views”: 18,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    { “$oid”: “680c4c3b533ecbc3f9625c04” },
+    { “$oid”: “680c4c3b533ecbc3f9625c06” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c0d”,
+    “slug”: “how-do-i-join-live-sessions-or-the-community”,
+    “shortcuts”: [
+    “Turn on notifications”,
+    “Newsletter link”,
+    “Challenges”
+    ],
+    “relatedFaqSlugs”: [
+    “what-features-does-the-app-include”,
+    “how-do-i-get-started-in-the-app”,
+    “what-courses-are-available”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c0e” },
+    “category”: “courses”,
+    “question”: “Are the sessions suitable for beginners?”,
+    “answer”: “Yes. Most sessions are paced at 4–6 breaths per minute with simple cues. Beginners should start with 9-Day Breathwork or Standard Breath. Advanced options and longer holds are clearly labeled; skip or modify if unsure.”,
+    “backgroundColor”: “#E8E1D1”,
+    “createdAt”: { “$date”: “2025-06-25T10:05:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “beginner”,
+    “easy”,
+    “entry level”,
+    “pace”,
+    “accessibility”,
+    “modifications”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:47.000Z” },
+    “views”: 50,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    { “$oid”: “680c4c3b533ecbc3f9625c09” },
+    { “$oid”: “680c4c3b533ecbc3f9625c04” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c0e”,
+    “slug”: “are-the-sessions-suitable-for-beginners”,
+    “shortcuts”: [
+    “Best first course”,
+    “Breathing pace”,
+    “Modify holds”
+    ],
+    “relatedFaqSlugs”: [
+    “what-courses-are-available”,
+    “who-should-avoid-or-modify-practices”,
+    “how-do-i-get-started-in-the-app”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c0f” },
+    “category”: “app”,
+    “question”: “Can I use the app offline?”,
+    “answer”: “You can download supported lessons to play without a connection. Go to a lesson, tap the download icon, and ensure the download completes before going offline. Remove downloads from the same menu to free space.”,
+    “backgroundColor”: “#D1DDE8”,
+    “createdAt”: { “$date”: “2025-06-28T09:30:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “offline”,
+    “download”,
+    “airplane mode”,
+    “storage”,
+    “playback”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:50.000Z” },
+    “views”: 26,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    { “$oid”: “680c4c3b533ecbc3f9625c0a” },
+    { “$oid”: “680c4c3b533ecbc3f9625c0c” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c0f”,
+    “slug”: “can-i-use-the-app-offline”,
+    “shortcuts”: [
+    “Download lessons”,
+    “Manage storage”,
+    “Remove downloads”
+    ],
+    “relatedFaqSlugs”: [
+    “what-features-does-the-app-include”,
+    “how-do-i-fix-audio-or-video-issues”,
+    “how-is-my-data-and-privacy-protected”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c10” },
+    “category”: “technical”,
+    “question”: “Which devices and OS are supported?”,
+    “answer”: “The app supports recent iOS and Android phones and tablets. Keep your OS and the app updated for best performance. Very old devices or custom ROMs may have reduced media performance and notification reliability.”,
+    “backgroundColor”: “#E1F0FF”,
+    “createdAt”: { “$date”: “2025-07-01T13:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “technical”,
+    “devices”,
+    “ios”,
+    “android”,
+    “compatibility”,
+    “notifications”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:54.000Z” },
+    “views”: 22,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c0a” },
+    { “$oid”: “680c4c3b533ecbc3f9625c0b” },
+    { “$oid”: “680c4c3b533ecbc3f9625c05” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c10”,
+    “slug”: “which-devices-and-os-are-supported”,
+    “shortcuts”: [
+    “Minimum OS”,
+    “Older devices”,
+    “Notifications reliability”
+    ],
+    “relatedFaqSlugs”: [
+    “how-do-i-fix-audio-or-video-issues”,
+    “how-do-subscriptions-trials-and-refunds-work”,
+    “what-features-does-the-app-include”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c11” },
+    “category”: “privacy”,
+    “question”: “Can I delete my account and data?”,
+    “answer”: “Yes. Go to Settings → Account → Delete account. This requests permanent deletion of your profile and app-level records after required retention windows. Content purchased through Apple or Google remains in your store history but not in our systems.”,
+    “backgroundColor”: “#EDE1F7”,
+    “createdAt”: { “$date”: “2025-07-05T09:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “delete account”,
+    “erase data”,
+    “privacy”,
+    “right to be forgotten”,
+    “account removal”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:00:57.000Z” },
+    “views”: 17,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c0c” },
+    { “$oid”: “680c4c3b533ecbc3f9625c0b” },
+    { “$oid”: “680c4c3b533ecbc3f9625c05” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c11”,
+    “slug”: “can-i-delete-my-account-and-data”,
+    “shortcuts”: [
+    “Where is delete option”,
+    “What gets deleted”,
+    “Store purchases”
+    ],
+    “relatedFaqSlugs”: [
+    “how-is-my-data-and-privacy-protected”,
+    “how-do-subscriptions-trials-and-refunds-work”,
+    “what-features-does-the-app-include”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c12” },
+    “category”: “courses”,
+    “question”: “How long are typical sessions?”,
+    “answer”: “Quick resets run 3–7 minutes. Course lessons range 8–20 minutes. Sleep sessions favor slower pacing and can run longer. You can pause anytime and your spot is saved.”,
+    “backgroundColor”: “#E8E1D1”,
+    “createdAt”: { “$date”: “2025-07-08T07:45:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “duration”,
+    “minutes”,
+    “short sessions”,
+    “sleep”,
+    “pause”,
+    “progress save”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:01:00.000Z” },
+    “views”: 23,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    { “$oid”: “680c4c3b533ecbc3f9625c07” },
+    { “$oid”: “680c4c3b533ecbc3f9625c0a” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c12”,
+    “slug”: “how-long-are-typical-sessions”,
+    “shortcuts”: [
+    “Quick sessions”,
+    “Course lesson length”,
+    “Sleep duration”
+    ],
+    “relatedFaqSlugs”: [
+    “what-courses-are-available”,
+    “how-do-course-progress-and-streaks-work”,
+    “how-do-i-fix-audio-or-video-issues”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c13” },
+    “category”: “technical”,
+    “question”: “Why are notifications not arriving?”,
+    “answer”: “Confirm notifications are enabled for the app in system settings. Keep the app updated. Avoid aggressive battery savers that block background tasks, especially on Android. Open the app once daily to refresh the scheduler. If using Focus or Do Not Disturb, allow the app as an exception.”,
+    “backgroundColor”: “#E1F0FF”,
+    “createdAt”: { “$date”: “2025-07-12T11:20:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “notifications”,
+    “reminders”,
+    “android battery”,
+    “focus mode”,
+    “do not disturb”,
+    “permissions”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:01:03.000Z” },
+    “views”: 29,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c10” },
+    { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    { “$oid”: “680c4c3b533ecbc3f9625c0a” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c13”,
+    “slug”: “why-are-notifications-not-arriving”,
+    “shortcuts”: [
+    “Enable notifications”,
+    “Battery saver exceptions”,
+    “Focus mode settings”
+    ],
+    “relatedFaqSlugs”: [
+    “which-devices-and-os-are-supported”,
+    “what-features-does-the-app-include”,
+    “how-do-i-fix-audio-or-video-issues”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c14” },
+    “category”: “general”,
+    “question”: “What content is on the YouTube channels?”,
+    “answer”: “Short guided practices, talks on breath science and habit building, and previews of in-app courses. Videos complement the app but the structured progress tracking is app-only.”,
+    “backgroundColor”: “#E8D1D1”,
+    “createdAt”: { “$date”: “2025-07-15T10:10:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-01T09:12:03.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “youtube”,
+    “video”,
+    “free content”,
+    “previews”,
+    “talks”,
+    “guided practice”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T10:01:06.000Z” },
+    “views”: 31,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c01” },
+    { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    { “$oid”: “680c4c3b533ecbc3f9625c04” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c14”,
+    “slug”: “what-content-is-on-the-youtube-channels”,
+    “shortcuts”: [
+    “Guided shorts”,
+    “Course previews”,
+    “Talks and Q&A”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-the-school-of-breath”,
+    “what-courses-are-available”,
+    “how-do-i-get-started-in-the-app”
+    ],
+    “answerFormat”: “markdown”
+    }
+    ]

@@ -1,0 +1,859 @@
+[
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c01”
+    },
+    “category”: “general”,
+    “question”: “What is Kundalini according to Satyananda Yoga?”,
+    “answer”: “Kundalini is described as a dormant potential energy at the base of the spine that can be awakened to expand consciousness. The text frames it within the chakra–nadi system and outlines methods for systematic, gradual awakening.  ￼ ￼”,
+    “backgroundColor”: “#E8D1D1”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:00.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:00.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “kundalini”,
+    “satyananda”,
+    “bihar yoga”,
+    “definition”,
+    “energy”,
+    “spine”,
+    “consciousness”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:00.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c02”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c03”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c06”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c01”,
+    “slug”: “what-is-kundalini-according-to-satyananda-yoga”,
+    “shortcuts”: [
+    “Define Kundalini”,
+    “Where is Kundalini located?”,
+    “How is Kundalini awakened?”
+    ],
+    “relatedFaqSlugs”: [
+    “what-are-the-nadis-ida-pingala-and-sushumna”,
+    “what-are-chakras-in-this-system”,
+    “what-is-kriya-yoga-in-this-context”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c02”
+    },
+    “category”: “physiology”,
+    “question”: “What are the nadis Ida, Pingala, and Sushumna?”,
+    “answer”: “Nadis are subtle channels for prana. Ida is associated with lunar-cooling currents, Pingala with solar-heating currents, and Sushumna is the central channel through which Kundalini ascends when ida and pingala are balanced. Pranayama practices aim to reduce ida–pingala dominance and open sushumna.  ￼ ￼”,
+    “backgroundColor”: “#E2F0D9”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:02.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:02.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “ida”,
+    “pingala”,
+    “sushumna”,
+    “nadis”,
+    “prana”,
+    “pranayama”,
+    “nadi shodhana”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:02.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c03”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c04”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c02”,
+    “slug”: “what-are-the-nadis-ida-pingala-and-sushumna”,
+    “shortcuts”: [
+    “Define nadis”,
+    “How does prana flow?”,
+    “Role of Sushumna in awakening”
+    ],
+    “relatedFaqSlugs”: [
+    “what-are-chakras-in-this-system”,
+    “what-is-nadi-shodhana-alternate-nostril-breathing”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c03”
+    },
+    “category”: “general”,
+    “question”: “What are chakras in this system?”,
+    “answer”: “Chakras are psycho-spiritual centers aligned along the spine and head. The core sequence includes mooladhara, swadhisthana, manipura, anahata, vishuddhi, ajna, and sahasrara. Practices place awareness on each chakra to purify and awaken it.  ￼ ￼”,
+    “backgroundColor”: “#E8D1D1”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:04.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:04.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “chakras”,
+    “mooladhara”,
+    “ajna”,
+    “sahasrara”,
+    “chakra sequence”,
+    “awareness”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:04.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c05”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c06”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c03”,
+    “slug”: “what-are-chakras-in-this-system”,
+    “shortcuts”: [
+    “List of chakras”,
+    “Where to place awareness?”,
+    “Which chakra is the root?”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-mooladhara-chakra”,
+    “what-is-kriya-yoga-in-this-context”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c04”
+    },
+    “category”: “pranayama”,
+    “question”: “What is Nadi Shodhana (alternate-nostril breathing)?”,
+    “answer”: “Nadi Shodhana balances ida and pingala and prepares entry into sushumna. It is traditionally practiced on an empty stomach and in a steady, comfortable posture.  ￼ ￼”,
+    “backgroundColor”: “#FFF2CC”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:06.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:06.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “nadi shodhana”,
+    “alternate nostril”,
+    “pranayama”,
+    “ida pingala balance”,
+    “sushumna preparation”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:06.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c02”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c07”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c04”,
+    “slug”: “what-is-nadi-shodhana-alternate-nostril-breathing”,
+    “shortcuts”: [
+    “When to practice?”,
+    “Benefits for nadis”,
+    “Posture guidance”
+    ],
+    “relatedFaqSlugs”: [
+    “what-are-the-nadis-ida-pingala-and-sushumna”,
+    “what-are-bandhas-and-why-are-they-used”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c05”
+    },
+    “category”: “chakras”,
+    “question”: “What is Mooladhara chakra?”,
+    “answer”: “Mooladhara is the root center associated with the earth element and the seat of kundalini shakti. Many foundational practices use concentration at this center.  ￼ ￼”,
+    “backgroundColor”: “#EAD1DC”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:08.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:08.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “mooladhara”,
+    “root chakra”,
+    “earth element”,
+    “kundalini seat”,
+    “concentration”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:08.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c03”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c09”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c05”,
+    “slug”: “what-is-mooladhara-chakra”,
+    “shortcuts”: [
+    “Root center location”,
+    “Why focus on mooladhara?”,
+    “Element and symbolism”
+    ],
+    “relatedFaqSlugs”: [
+    “what-are-chakras-in-this-system”,
+    “what-is-the-21-session-course-structure”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c06”
+    },
+    “category”: “practice”,
+    “question”: “What is Kriya Yoga in this context?”,
+    “answer”: “The tradition lists 76 kundalini kriyas, with 20 main practices presented for systematic awakening. The text emphasizes learning each kriya step precisely and managing the breath intelligently.  ￼”,
+    “backgroundColor”: “#DDEBF7”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:10.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:10.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “kriya yoga”,
+    “kundalini kriyas”,
+    “twenty practices”,
+    “method”,
+    “breath management”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:10.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c09”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c10”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c06”,
+    “slug”: “what-is-kriya-yoga-in-this-context”,
+    “shortcuts”: [
+    “How many kriyas?”,
+    “Learning sequence”,
+    “Breath considerations”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-the-21-session-course-structure”,
+    “what-are-the-risks-and-safety-precautions”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c07”
+    },
+    “category”: “mudra-bandha”,
+    “question”: “What are bandhas and why are they used?”,
+    “answer”: “Bandhas are energetic locks that direct prana and stabilize practices. Moola bandha specifically relates to the pelvic floor and the mooladhara region and is used to channel energy upward.  ￼”,
+    “backgroundColor”: “#F4CCCC”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:12.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:12.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “bandha”,
+    “moola bandha”,
+    “energetic locks”,
+    “prana direction”,
+    “pelvic floor”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:12.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c04”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c08”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c07”,
+    “slug”: “what-are-bandhas-and-why-are-they-used”,
+    “shortcuts”: [
+    “Define bandha”,
+    “What is moola bandha?”,
+    “When to apply bandhas?”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-nadi-shodhana-alternate-nostril-breathing”,
+    “what-are-mudras-in-this-approach”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c08”
+    },
+    “category”: “mudra-bandha”,
+    “question”: “What are mudras in this approach?”,
+    “answer”: “Mudras are psycho-energetic gestures or configurations used with breath and attention to influence pranic flow and trigger specific chakra responses. They are integrated with asana, pranayama, and bandha.  ￼”,
+    “backgroundColor”: “#F4CCCC”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:14.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:14.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “mudra”,
+    “gestures”,
+    “pranic flow”,
+    “chakra trigger”,
+    “integration”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:14.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c07”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c06”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c08”,
+    “slug”: “what-are-mudras-in-this-approach”,
+    “shortcuts”: [
+    “Define mudra”,
+    “Mudra with breath”,
+    “Mudra and chakras”
+    ],
+    “relatedFaqSlugs”: [
+    “what-are-bandhas-and-why-are-they-used”,
+    “what-is-kriya-yoga-in-this-context”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c09”
+    },
+    “category”: “course”,
+    “question”: “What is the 21-session course structure?”,
+    “answer”: “Use a three-phase arc: Foundation (sessions 1–7: relaxation, basic pranayama, chakra awareness), Activation (sessions 8–14: bandhas, mudras, progressive kriyas), Integration (sessions 15–21: meditation, mantra, consolidation). Emphasize stepwise learning of kriyas and precise technique.  ￼ ￼”,
+    “backgroundColor”: “#CCE5FF”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:16.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:16.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “21 session plan”,
+    “curriculum”,
+    “foundation”,
+    “activation”,
+    “integration”,
+    “progression”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:16.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c06”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c11”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c09”,
+    “slug”: “what-is-the-21-session-course-structure”,
+    “shortcuts”: [
+    “Phase overview”,
+    “Session themes”,
+    “Progression logic”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-kriya-yoga-in-this-context”,
+    “what-are-recommended-preparatory-practices”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c10”
+    },
+    “category”: “safety”,
+    “question”: “What are the risks and safety precautions?”,
+    “answer”: “The text cautions that advanced pranayama and kriyas should be learned progressively with correct technique. Emphasis is on preparation, precision, and not forcing the breath or the process. Medical or psychological instability warrants professional supervision.  ￼ ￼”,
+    “backgroundColor”: “#FDE2E4”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:18.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:18.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “safety”,
+    “contraindications”,
+    “precautions”,
+    “advanced practice”,
+    “supervision”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:18.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c06”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c12”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c10”,
+    “slug”: “what-are-the-risks-and-safety-precautions”,
+    “shortcuts”: [
+    “Who should avoid?”,
+    “How to progress safely?”,
+    “When to seek guidance?”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-kriya-yoga-in-this-context”,
+    “what-are-signs-of-progress-vs-warning-signs”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c11”
+    },
+    “category”: “preparation”,
+    “question”: “What are recommended preparatory practices?”,
+    “answer”: “Core preparation includes relaxation methods, basic pranayama such as nadi shodhana, and chakra awareness meditations. These build steadiness before bandhas, mudras, and kriyas.  ￼ ￼”,
+    “backgroundColor”: “#FCE5CD”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:20.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:20.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “preparatory”,
+    “relaxation”,
+    “chakra awareness”,
+    “nadi shodhana”,
+    “readiness”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:20.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c04”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c09”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c11”,
+    “slug”: “what-are-recommended-preparatory-practices”,
+    “shortcuts”: [
+    “Before bandhas”,
+    “Before kriyas”,
+    “Foundational skills”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-nadi-shodhana-alternate-nostril-breathing”,
+    “what-is-the-21-session-course-structure”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c12”
+    },
+    “category”: “signs”,
+    “question”: “What are signs of progress vs. warning signs?”,
+    “answer”: “Signs of progress include steady breath, balanced energy, and improved concentration. Warning signs include agitation, breath strain, or instability, indicating the need to reduce intensity and re-emphasize preparatory work. The text stresses non-forcing and gradualism.  ￼ ￼”,
+    “backgroundColor”: “#D0E0E3”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:22.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:22.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “signs”,
+    “progress”,
+    “warnings”,
+    “agitation”,
+    “instability”,
+    “gradualism”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:22.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c10”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c11”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c12”,
+    “slug”: “what-are-signs-of-progress-vs-warning-signs”,
+    “shortcuts”: [
+    “Positive markers”,
+    “When to scale back”,
+    “Stability first”
+    ],
+    “relatedFaqSlugs”: [
+    “what-are-the-risks-and-safety-precautions”,
+    “what-are-recommended-preparatory-practices”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c13”
+    },
+    “category”: “meditation”,
+    “question”: “Which meditative methods are used?”,
+    “answer”: “Ajapa japa, chakra visualization, and relaxation-based meditations are used to refine attention and direct prana. These support the later kriya sequence.  ￼”,
+    “backgroundColor”: “#CFE2F3”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:24.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:24.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “ajapa japa”,
+    “visualization”,
+    “relaxation”,
+    “meditation”,
+    “support practices”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:24.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c11”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c06”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c13”,
+    “slug”: “which-meditative-methods-are-used”,
+    “shortcuts”: [
+    “Ajapa japa basics”,
+    “Chakra visualization”,
+    “Relaxation methods”
+    ],
+    “relatedFaqSlugs”: [
+    “what-are-recommended-preparatory-practices”,
+    “what-is-kriya-yoga-in-this-context”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c14”
+    },
+    “category”: “lifestyle”,
+    “question”: “Are there lifestyle guidelines for this work?”,
+    “answer”: “Consistency, sufficient rest, and moderation in diet and activity support steady progress. Practice ideally occurs at a regular time with an empty or light stomach and a calm environment.  ￼ ￼”,
+    “backgroundColor”: “#D9D2E9”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:26.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:26.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “lifestyle”,
+    “diet”,
+    “consistency”,
+    “practice time”,
+    “environment”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:26.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c11”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c04”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c14”,
+    “slug”: “are-there-lifestyle-guidelines-for-this-work”,
+    “shortcuts”: [
+    “Best time to practice”,
+    “Stomach and meals”,
+    “Environment setup”
+    ],
+    “relatedFaqSlugs”: [
+    “what-are-recommended-preparatory-practices”,
+    “what-is-nadi-shodhana-alternate-nostril-breathing”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c15”
+    },
+    “category”: “teacher”,
+    “question”: “Is guidance from a teacher required?”,
+    “answer”: “The publisher notes these texts are for information and that training should be undertaken with qualified instruction. Complex techniques are not intended for unsupervised self-teaching.  ￼ ￼”,
+    “backgroundColor”: “#EAD1DC”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:28.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:28.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “teacher”,
+    “guidance”,
+    “instruction”,
+    “training”,
+    “supervision”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:28.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c10”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c06”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c15”,
+    “slug”: “is-guidance-from-a-teacher-required”,
+    “shortcuts”: [
+    “Self study limits”,
+    “When to seek help”,
+    “Qualified instruction”
+    ],
+    “relatedFaqSlugs”: [
+    “what-are-the-risks-and-safety-precautions”,
+    “what-is-kriya-yoga-in-this-context”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c16”
+    },
+    “category”: “pranayama”,
+    “question”: “How does pranayama support Kundalini work?”,
+    “answer”: “Pranayama balances ida and pingala, refines nervous-system tone, and opens sushumna, creating conditions for ascent. Texts also link these practices with autonomic regulation.  ￼ ￼”,
+    “backgroundColor”: “#FFF2CC”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:30.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:30.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “pranayama”,
+    “autonomic balance”,
+    “ida pingala”,
+    “sushumna”,
+    “nervous system”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:30.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c02”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c04”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c16”,
+    “slug”: “how-does-pranayama-support-kundalini-work”,
+    “shortcuts”: [
+    “Autonomic effects”,
+    “Flow into sushumna”,
+    “Preparatory role”
+    ],
+    “relatedFaqSlugs”: [
+    “what-are-the-nadis-ida-pingala-and-sushumna”,
+    “what-is-nadi-shodhana-alternate-nostril-breathing”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c17”
+    },
+    “category”: “practice”,
+    “question”: “What mantras or seed sounds relate to chakras?”,
+    “answer”: “Traditional depictions associate each chakra with specific bijas and imagery used for concentration. These aids support one-pointedness during practice. Use them within the broader method rather than as stand-alone shortcuts.  ￼”,
+    “backgroundColor”: “#DDEBF7”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:32.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:32.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “bija mantra”,
+    “seed sound”,
+    “chakra mantra”,
+    “visualization”,
+    “concentration”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:32.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c03”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c13”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c17”,
+    “slug”: “what-mantras-or-seed-sounds-relate-to-chakras”,
+    “shortcuts”: [
+    “Bija overview”,
+    “Use with visualization”,
+    “Focus not shortcut”
+    ],
+    “relatedFaqSlugs”: [
+    “what-are-chakras-in-this-system”,
+    “which-meditative-methods-are-used”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: {
+    “$oid”: “680c4c3b533ecbc3f9625c18”
+    },
+    “category”: “troubleshooting”,
+    “question”: “What if breath feels locked during kriyas?”,
+    “answer”: “If the breath locks after internal retention, a small inhalation before exhalation helps release and resume smooth rhythm. Reduce intensity and re-check steps.  ￼”,
+    “backgroundColor”: “#FFE599”,
+    “createdAt”: {
+    “$date”: “2025-09-05T10:00:34.000Z”
+    },
+    “updatedAt”: {
+    “$date”: “2025-09-05T10:00:34.000Z”
+    },
+    “__v”: 0,
+    “keywords”: [
+    “breath lock”,
+    “kumbhaka”,
+    “exhalation cue”,
+    “kriya troubleshooting”,
+    “intensity”
+    ],
+    “lastAccessed”: {
+    “$date”: “2025-09-05T10:00:34.000Z”
+    },
+    “views”: 0,
+    “relatedFaqIds”: [
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c06”
+    },
+    {
+    “$oid”: “680c4c3b533ecbc3f9625c10”
+    }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c18”,
+    “slug”: “what-if-breath-feels-locked-during-kriyas”,
+    “shortcuts”: [
+    “Unlocking breath”,
+    “Reduce intensity”,
+    “Re-check steps”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-kriya-yoga-in-this-context”,
+    “what-are-the-risks-and-safety-precautions”
+    ],
+    “answerFormat”: “markdown”
+    }
+    ]

@@ -1,0 +1,569 @@
+{
+  "info": {
+    "name": "Mantras API - School of Breath",
+    "description": "Complete API collection for Mantras endpoints including categories, filtering, and exploration features.\n\n**Base URLs:**\n- Production: https://api-music-iota.vercel.app\n- Development: https://dev-api-music-iota.vercel.app\n- Local: http://localhost:3000\n\n**Setup Instructions:**\n1. Import this collection into Postman\n2. The collection uses Production URL by default\n3. To change environment, edit the `base_url` variable:\n   - Production: `https://api-music-iota.vercel.app`\n   - Development: `https://dev-api-music-iota.vercel.app`\n   - Local: `http://localhost:3000`\n4. Optionally set `user_email` variable for access control testing\n\n**Documentation:**\n- API Reference: MANTRAS_PUBLIC_API_REFERENCE.md\n- Full Documentation: MANTRAS_API_DOCUMENTATION.md\n- Dynamic System Guide: MANTRAS_DYNAMIC_SYSTEM.md",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "12345678"
+  },
+  "item": [
+    {
+      "name": "Category Endpoints",
+      "item": [
+        {
+          "name": "Get All Deities",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras/categories/deities",
+              "host": ["{{base_url}}"],
+              "path": ["mantras", "categories", "deities"]
+            },
+            "description": "Get all deity categories with images, descriptions, and mantra counts.\n\n**Use Case:** Build deity explorer/selector UI\n\n**Response includes:**\n- Deity identifier (SHIVA, KRISHNA, etc.)\n- Label and descriptions\n- Image URL for card backgrounds\n- Icon name (for Lucide icons)\n- Color gradient (Tailwind classes)\n- Mantra count per deity"
+          },
+          "response": [
+            {
+              "name": "Success Response",
+              "originalRequest": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                  "raw": "{{base_url}}/mantras/categories/deities",
+                  "host": ["{{base_url}}"],
+                  "path": ["mantras", "categories", "deities"]
+                }
+              },
+              "status": "OK",
+              "code": 200,
+              "_postman_previewlanguage": "json",
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "cookie": [],
+              "body": "{\n  \"success\": true,\n  \"data\": [\n    {\n      \"_id\": \"65a1b2c3d4e5f6g7h8i9j0k1\",\n      \"type\": \"DEITY\",\n      \"identifier\": \"SHIVA\",\n      \"label\": \"Shiva\",\n      \"description\": \"Stillness & Power\",\n      \"longDescription\": \"Lord Shiva represents the transformative aspect of consciousness...\",\n      \"image\": \"https://storage.googleapis.com/.../ShivaMantraImage.jpg\",\n      \"icon\": \"Flame\",\n      \"color\": \"bg-gradient-to-br from-indigo-900 to-purple-800\",\n      \"keywords\": [\"transformation\", \"meditation\", \"stillness\"],\n      \"order\": 0,\n      \"isActive\": true,\n      \"mantraCount\": 8\n    }\n  ]\n}"
+            }
+          ]
+        },
+        {
+          "name": "Get All Benefits",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras/categories/benefits",
+              "host": ["{{base_url}}"],
+              "path": ["mantras", "categories", "benefits"]
+            },
+            "description": "Get all benefit categories with icons, colors, and mantra counts.\n\n**Use Case:** Build benefit selector (mood/intention picker)\n\n**Response includes:**\n- Benefit identifier (ENERGY, CALM, etc.)\n- Label and descriptions\n- Icon name for UI (Zap, Heart, Shield, etc.)\n- Color gradient for buttons\n- Mantra count per benefit"
+          },
+          "response": [
+            {
+              "name": "Success Response",
+              "originalRequest": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                  "raw": "{{base_url}}/mantras/categories/benefits",
+                  "host": ["{{base_url}}"],
+                  "path": ["mantras", "categories", "benefits"]
+                }
+              },
+              "status": "OK",
+              "code": 200,
+              "_postman_previewlanguage": "json",
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "cookie": [],
+              "body": "{\n  \"success\": true,\n  \"data\": [\n    {\n      \"_id\": \"65a1b2c3d4e5f6g7h8i9j0k3\",\n      \"type\": \"BENEFIT\",\n      \"identifier\": \"ENERGY\",\n      \"label\": \"Energy & Focus\",\n      \"description\": \"Boost vitality and sharpen concentration\",\n      \"icon\": \"Zap\",\n      \"color\": \"bg-gradient-to-br from-orange-400 to-red-500\",\n      \"order\": 0,\n      \"mantraCount\": 9\n    }\n  ]\n}"
+            }
+          ]
+        },
+        {
+          "name": "Get All Difficulties",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras/categories/difficulties",
+              "host": ["{{base_url}}"],
+              "path": ["mantras", "categories", "difficulties"]
+            },
+            "description": "Get difficulty levels with mantra counts.\n\n**Use Case:** Filter mantras by experience level\n\n**Difficulty Levels:**\n- BEGINNER - Perfect for newcomers\n- INTERMEDIATE - For regular practitioners\n- ADVANCED - For experienced practitioners"
+          },
+          "response": []
+        },
+        {
+          "name": "Get All Categories (Grouped)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras/categories/all",
+              "host": ["{{base_url}}"],
+              "path": ["mantras", "categories", "all"]
+            },
+            "description": "Get all categories grouped by type in a single request.\n\n**Use Case:** App initialization - load all metadata at once\n\n**Returns:**\n- deities: Array of all deity categories\n- benefits: Array of all benefit categories\n- difficulties: Array of all difficulty levels\n\n**Best Practice:** Call this on app start and cache the result for 24 hours."
+          },
+          "response": [
+            {
+              "name": "Success Response",
+              "originalRequest": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                  "raw": "{{base_url}}/mantras/categories/all",
+                  "host": ["{{base_url}}"],
+                  "path": ["mantras", "categories", "all"]
+                }
+              },
+              "status": "OK",
+              "code": 200,
+              "_postman_previewlanguage": "json",
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "cookie": [],
+              "body": "{\n  \"success\": true,\n  \"data\": {\n    \"deities\": [...],\n    \"benefits\": [...],\n    \"difficulties\": [...]\n  }\n}"
+            }
+          ]
+        },
+        {
+          "name": "Get Category Statistics",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras/categories/stats",
+              "host": ["{{base_url}}"],
+              "path": ["mantras", "categories", "stats"]
+            },
+            "description": "Get overall statistics and analytics.\n\n**Use Case:** Dashboard, analytics, admin panel\n\n**Returns:**\n- Total mantra count\n- Count by deity\n- Count by benefit\n- Count by difficulty\n- Top 5 most popular mantras"
+          },
+          "response": []
+        }
+      ],
+      "description": "Endpoints for fetching category metadata (deities, benefits, difficulties).\n\nCategories provide all the dynamic data needed for the UI:\n- Deity images and descriptions\n- Benefit icons and colors\n- Difficulty levels\n- Mantra counts per category"
+    },
+    {
+      "name": "Mantra Endpoints",
+      "item": [
+        {
+          "name": "Get All Mantras",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras?page=1&limit=20",
+              "host": ["{{base_url}}"],
+              "path": ["mantras"],
+              "query": [
+                {
+                  "key": "page",
+                  "value": "1",
+                  "description": "Page number (default: 1)"
+                },
+                {
+                  "key": "limit",
+                  "value": "20",
+                  "description": "Items per page (default: 20)"
+                },
+                {
+                  "key": "email",
+                  "value": "{{user_email}}",
+                  "description": "User email for access control",
+                  "disabled": true
+                },
+                {
+                  "key": "deity",
+                  "value": "",
+                  "description": "Filter by deity (SHIVA, KRISHNA, etc.)",
+                  "disabled": true
+                },
+                {
+                  "key": "benefit",
+                  "value": "",
+                  "description": "Filter by benefit (ENERGY, CALM, etc.)",
+                  "disabled": true
+                },
+                {
+                  "key": "difficulty",
+                  "value": "",
+                  "description": "Filter by difficulty (BEGINNER, INTERMEDIATE, ADVANCED)",
+                  "disabled": true
+                }
+              ]
+            },
+            "description": "Get mantras with filtering, pagination, and access control.\n\n**Query Parameters:**\n- `email` - User email for access control\n- `deity` - Filter by deity\n- `benefit` - Filter by benefit\n- `difficulty` - Filter by difficulty\n- `page` - Page number\n- `limit` - Items per page\n\n**Use Cases:**\n- List all mantras\n- Filter by deity/benefit/difficulty\n- Paginated mantra library"
+          },
+          "response": [
+            {
+              "name": "All Mantras - Paginated",
+              "originalRequest": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                  "raw": "{{base_url}}/mantras?page=1&limit=20",
+                  "host": ["{{base_url}}"],
+                  "path": ["mantras"],
+                  "query": [
+                    {
+                      "key": "page",
+                      "value": "1"
+                    },
+                    {
+                      "key": "limit",
+                      "value": "20"
+                    }
+                  ]
+                }
+              },
+              "status": "OK",
+              "code": 200,
+              "_postman_previewlanguage": "json",
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "cookie": [],
+              "body": "{\n  \"success\": true,\n  \"mantras\": [\n    {\n      \"_id\": \"...\",\n      \"title\": \"Om Namah Shivaya (Obstacle Destroyer)\",\n      \"description\": \"An ancient mantra that destroys obstacles...\",\n      \"duration\": 600,\n      \"audioUrl\": \"https://storage.googleapis.com/.../Om%20Namah%20Shivaya.mp3\",\n      \"deity\": \"SHIVA\",\n      \"benefit\": \"ENERGY\",\n      \"difficulty\": \"BEGINNER\",\n      \"popularityScore\": 15400,\n      \"pointsReward\": 50,\n      \"views\": 1234,\n      \"isPremium\": false\n    }\n  ],\n  \"hasAccess\": true,\n  \"pagination\": {\n    \"total\": 21,\n    \"page\": 1,\n    \"limit\": 20,\n    \"totalPages\": 2,\n    \"hasNextPage\": true,\n    \"hasPrevPage\": false\n  }\n}"
+            }
+          ]
+        },
+        {
+          "name": "Filter by Deity",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras?deity=SHIVA&email={{user_email}}",
+              "host": ["{{base_url}}"],
+              "path": ["mantras"],
+              "query": [
+                {
+                  "key": "deity",
+                  "value": "SHIVA",
+                  "description": "Available: SHIVA, KRISHNA, HANUMAN, GANESHA, DEVI, UNIVERSAL"
+                },
+                {
+                  "key": "email",
+                  "value": "{{user_email}}",
+                  "description": "User email for access control"
+                }
+              ]
+            },
+            "description": "Get mantras filtered by deity.\n\n**Available Deities:**\n- SHIVA\n- KRISHNA\n- HANUMAN\n- GANESHA\n- DEVI\n- GURU\n- UNIVERSAL"
+          },
+          "response": []
+        },
+        {
+          "name": "Filter by Benefit",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras?benefit=ENERGY",
+              "host": ["{{base_url}}"],
+              "path": ["mantras"],
+              "query": [
+                {
+                  "key": "benefit",
+                  "value": "ENERGY",
+                  "description": "Available: ENERGY, CALM, SLEEP, PROTECTION, HEALING, DEVOTION, CONFIDENCE, FORGIVENESS"
+                }
+              ]
+            },
+            "description": "Get mantras filtered by benefit.\n\n**Available Benefits:**\n- ENERGY - Energy & Focus\n- CALM - Anxiety & Stress Relief\n- SLEEP - Deep Sleep & Rest\n- PROTECTION - Courage & Protection\n- HEALING - Healing & Recovery\n- DEVOTION - Devotion & Connection\n- CONFIDENCE - Self-assurance\n- FORGIVENESS - Letting Go"
+          },
+          "response": []
+        },
+        {
+          "name": "Filter by Difficulty",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras?difficulty=BEGINNER",
+              "host": ["{{base_url}}"],
+              "path": ["mantras"],
+              "query": [
+                {
+                  "key": "difficulty",
+                  "value": "BEGINNER",
+                  "description": "Available: BEGINNER, INTERMEDIATE, ADVANCED"
+                }
+              ]
+            },
+            "description": "Get mantras filtered by difficulty level.\n\n**Available Difficulties:**\n- BEGINNER - Perfect for newcomers\n- INTERMEDIATE - For regular practitioners\n- ADVANCED - For experienced practitioners"
+          },
+          "response": []
+        },
+        {
+          "name": "Combined Filters",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras?deity=HANUMAN&benefit=PROTECTION&difficulty=BEGINNER",
+              "host": ["{{base_url}}"],
+              "path": ["mantras"],
+              "query": [
+                {
+                  "key": "deity",
+                  "value": "HANUMAN"
+                },
+                {
+                  "key": "benefit",
+                  "value": "PROTECTION"
+                },
+                {
+                  "key": "difficulty",
+                  "value": "BEGINNER"
+                }
+              ]
+            },
+            "description": "Combine multiple filters to narrow down results.\n\nExample: Get all beginner-friendly Hanuman mantras for protection."
+          },
+          "response": []
+        },
+        {
+          "name": "Get Single Mantra",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras/:mantra_id",
+              "host": ["{{base_url}}"],
+              "path": ["mantras", ":mantra_id"],
+              "variable": [
+                {
+                  "key": "mantra_id",
+                  "value": "65a1b2c3d4e5f6g7h8i9j0k9",
+                  "description": "Mantra ID from database"
+                }
+              ]
+            },
+            "description": "Get detailed information about a specific mantra.\n\n**Use Case:** Mantra detail page, player screen\n\n**Note:** View count is automatically incremented when this endpoint is called."
+          },
+          "response": []
+        },
+        {
+          "name": "Get Mantras by Deity (Grouped)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras/explore/by-deity?email={{user_email}}",
+              "host": ["{{base_url}}"],
+              "path": ["mantras", "explore", "by-deity"],
+              "query": [
+                {
+                  "key": "email",
+                  "value": "{{user_email}}",
+                  "description": "User email for access control"
+                }
+              ]
+            },
+            "description": "Get all mantras grouped by deity.\n\n**Use Case:** Deity-based exploration UI\n\n**Returns:** Object with deities as keys, each containing array of mantras.\n\n**Example Response:**\n```json\n{\n  \"SHIVA\": [...mantras],\n  \"KRISHNA\": [...mantras],\n  \"HANUMAN\": [...mantras]\n}\n```"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Mantras by Benefit (Grouped)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras/explore/by-benefit?email={{user_email}}",
+              "host": ["{{base_url}}"],
+              "path": ["mantras", "explore", "by-benefit"],
+              "query": [
+                {
+                  "key": "email",
+                  "value": "{{user_email}}",
+                  "description": "User email for access control"
+                }
+              ]
+            },
+            "description": "Get all mantras grouped by benefit.\n\n**Use Case:** Benefit-based exploration UI (mood selector)\n\n**Returns:** Object with benefits as keys, each containing array of mantras.\n\n**Example Response:**\n```json\n{\n  \"ENERGY\": [...mantras],\n  \"CALM\": [...mantras],\n  \"HEALING\": [...mantras]\n}\n```"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Popular Mantras",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras/popular/list?limit=10",
+              "host": ["{{base_url}}"],
+              "path": ["mantras", "popular", "list"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "10",
+                  "description": "Number of mantras to return (default: 10)"
+                }
+              ]
+            },
+            "description": "Get the most popular mantras sorted by popularity score.\n\n**Use Case:** Homepage featured section, \"Trending Now\"\n\n**Sorting:** Mantras are sorted by popularityScore (descending) and views (descending)."
+          },
+          "response": []
+        }
+      ],
+      "description": "Endpoints for fetching mantras with various filters and groupings.\n\nSupports:\n- Pagination\n- Filtering by deity, benefit, difficulty\n- Access control via email\n- Grouped exploration\n- Popular mantras"
+    },
+    {
+      "name": "Testing & Examples",
+      "item": [
+        {
+          "name": "Example: App Initialization",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras/categories/all",
+              "host": ["{{base_url}}"],
+              "path": ["mantras", "categories", "all"]
+            },
+            "description": "Example: Load all categories on app start.\n\n**Flow:**\n1. Call this endpoint when app initializes\n2. Store deities, benefits, and difficulties in Redux/Context\n3. Cache the result for 24 hours\n4. Use cached data to build UI dynamically\n\n**Frontend Code:**\n```typescript\nconst initApp = async () => {\n  const response = await fetch('/mantras/categories/all');\n  const { data } = await response.json();\n  \n  dispatch(setDeities(data.deities));\n  dispatch(setBenefits(data.benefits));\n};\n```"
+          },
+          "response": []
+        },
+        {
+          "name": "Example: Deity Explorer Flow",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras?deity=SHIVA&page=1&limit=20",
+              "host": ["{{base_url}}"],
+              "path": ["mantras"],
+              "query": [
+                {
+                  "key": "deity",
+                  "value": "SHIVA"
+                },
+                {
+                  "key": "page",
+                  "value": "1"
+                },
+                {
+                  "key": "limit",
+                  "value": "20"
+                }
+              ]
+            },
+            "description": "Example: User selects Shiva deity, show all Shiva mantras.\n\n**Flow:**\n1. User taps on Shiva deity card\n2. Fetch mantras filtered by deity=SHIVA\n3. Display in a list with pagination\n4. Show 20 mantras per page\n\n**Frontend Code:**\n```typescript\nconst onDeityPress = async (deity) => {\n  const response = await fetch(`/mantras?deity=${deity}&limit=20`);\n  const { mantras } = await response.json();\n  navigate('MantraList', { mantras });\n};\n```"
+          },
+          "response": []
+        },
+        {
+          "name": "Example: Mood Selector Flow",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras?benefit=ENERGY&email={{user_email}}",
+              "host": ["{{base_url}}"],
+              "path": ["mantras"],
+              "query": [
+                {
+                  "key": "benefit",
+                  "value": "ENERGY"
+                },
+                {
+                  "key": "email",
+                  "value": "{{user_email}}"
+                }
+              ]
+            },
+            "description": "Example: User selects \"Energy & Focus\" benefit.\n\n**Flow:**\n1. Show benefit options (from categories/benefits)\n2. User selects \"Energy & Focus\"\n3. Fetch mantras filtered by benefit=ENERGY\n4. Check access control with user email\n5. Display mantras with lock icon if hasAccess=false\n\n**Frontend Code:**\n```typescript\nconst onBenefitPress = async (benefit, userEmail) => {\n  const response = await fetch(`/mantras?benefit=${benefit}&email=${userEmail}`);\n  const { mantras, hasAccess } = await response.json();\n  \n  navigate('MantraList', { mantras, hasAccess });\n};\n```"
+          },
+          "response": []
+        },
+        {
+          "name": "Example: Homepage Popular Section",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/mantras/popular/list?limit=5",
+              "host": ["{{base_url}}"],
+              "path": ["mantras", "popular", "list"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "5"
+                }
+              ]
+            },
+            "description": "Example: Show top 5 popular mantras on homepage.\n\n**Flow:**\n1. On homepage load, fetch top 5 popular mantras\n2. Display in a horizontal scroll or featured section\n3. Show popularity score and view count\n\n**Frontend Code:**\n```typescript\nconst loadPopularMantras = async () => {\n  const response = await fetch('/mantras/popular/list?limit=5');\n  const { data } = await response.json();\n  \n  setPopularMantras(data);\n};\n```"
+          },
+          "response": []
+        }
+      ],
+      "description": "Example requests showing common integration patterns and user flows."
+    }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "exec": [
+          "// Set default base_url if not set",
+          "if (!pm.environment.get('base_url')) {",
+          "    pm.environment.set('base_url', 'https://api-music-iota.vercel.app');",
+          "}",
+          "",
+          "// Set default user_email if not set",
+          "if (!pm.environment.get('user_email')) {",
+          "    pm.environment.set('user_email', 'test@example.com');",
+          "}"
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "exec": [
+          "// Basic test to check response",
+          "pm.test('Status code is 200', function () {",
+          "    pm.response.to.have.status(200);",
+          "});",
+          "",
+          "pm.test('Response has success field', function () {",
+          "    var jsonData = pm.response.json();",
+          "    pm.expect(jsonData).to.have.property('success');",
+          "});"
+        ]
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "https://api-music-iota.vercel.app",
+      "type": "string",
+      "description": "Production URL. Change to https://dev-api-music-iota.vercel.app for development or http://localhost:3000 for local"
+    },
+    {
+      "key": "user_email",
+      "value": "test@example.com",
+      "type": "string"
+    }
+  ]
+}

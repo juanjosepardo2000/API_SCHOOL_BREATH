@@ -1,0 +1,570 @@
+[
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c110” },
+    “category”: “general”,
+    “question”: “What is Breathwork for Decision Making?”,
+    “answer”: “Breathwork for Decision Making is a practical method that uses paced nasal breathing and brief awareness practices to calm the nervous system, reduce fear-based impulses, and align choices with Emotions, Self, Vision, and Surroundings. You use the breath to shift from stress reactivity to clarity, then decide.”,
+    “backgroundColor”: “#E8D1D1”,
+    “createdAt”: { “$date”: “2025-04-26T03:00:11.617Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “breathwork”,
+    “decision making”,
+    “mindfulness”,
+    “clarity”,
+    “HRV”,
+    “vagus nerve”,
+    “Chopra”,
+    “emotions self vision surroundings”,
+    “calm focus”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 72,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c111” },
+    { “$oid”: “680c4c3b533ecbc3f962c113” },
+    { “$oid”: “680c4c3b533ecbc3f962c115” },
+    { “$oid”: “680c4c3b533ecbc3f962c118” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c110”,
+    “slug”: “what-is-breathwork-for-decision-making”,
+    “shortcuts”: [
+    “Core framework”,
+    “Quick 2-minute protocol”,
+    “Daily routine”,
+    “Safety and contraindications”,
+    “How it works in the body”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-the-core-framework-emotions-self-vision-surroundings”,
+    “what-is-a-quick-2-minute-protocol-before-big-decisions”,
+    “what-daily-routine-builds-decision-clarity”,
+    “what-are-the-contraindications-and-safety-guidelines”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c111” },
+    “category”: “philosophy”,
+    “question”: “What is the core framework: Emotions, Self, Vision, Surroundings?”,
+    “answer”: “Emotions: Choose from positive states, not fear, rivalry, anger, or greed.\n\nSelf: Act from your calm, secure core rather than egoic impulse.\n\nVision: Let long-term aspirations orient short-term choices.\n\nSurroundings: Match decisions to the real context. No single formula fits all situations.”,
+    “backgroundColor”: “#E1F0FF”,
+    “createdAt”: { “$date”: “2025-04-26T03:01:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “four elements”,
+    “emotions”,
+    “self”,
+    “vision”,
+    “surroundings”,
+    “framework”,
+    “values alignment”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 61,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c110” },
+    { “$oid”: “680c4c3b533ecbc3f962c114” },
+    { “$oid”: “680c4c3b533ecbc3f962c117” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c111”,
+    “slug”: “what-is-the-core-framework-emotions-self-vision-surroundings”,
+    “shortcuts”: [
+    “Positive emotions vs fear”,
+    “True self vs ego”,
+    “Keep vision in view”,
+    “Assess the context”
+    ],
+    “relatedFaqSlugs”: [
+    “how-do-i-know-if-a-decision-is-right-or-wrong”,
+    “how-do-i-evaluate-a-choice-using-the-four-elements”,
+    “how-do-i-measure-progress-in-decision-clarity”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c112” },
+    “category”: “philosophy”,
+    “question”: “Is there a right or wrong decision?”,
+    “answer”: “There is no fixed right or wrong. Each decision opens a new set of possibilities. Once you decide, life organizes around that choice. Your job is to choose from clarity and learn from outcomes.”,
+    “backgroundColor”: “#E1F0FF”,
+    “createdAt”: { “$date”: “2025-04-26T03:01:30.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “no right wrong”,
+    “possibilities”,
+    “learning”,
+    “mindset”,
+    “growth”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 44,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c111” },
+    { “$oid”: “680c4c3b533ecbc3f962c117” },
+    { “$oid”: “680c4c3b533ecbc3f962c115” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c112”,
+    “slug”: “how-do-i-know-if-a-decision-is-right-or-wrong”,
+    “shortcuts”: [
+    “Use the four elements”,
+    “Run the 2-minute reset”,
+    “Debrief and learn”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-the-core-framework-emotions-self-vision-surroundings”,
+    “how-do-i-evaluate-a-choice-using-the-four-elements”,
+    “what-is-a-quick-2-minute-protocol-before-big-decisions”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c113” },
+    “category”: “science”,
+    “question”: “How does breathwork influence decisions physiologically?”,
+    “answer”: “Slow nasal breathing increases vagal tone, lifts heart-rate variability (HRV), and shifts the body toward parasympathetic dominance. This reduces threat bias, widens attention, and supports deliberation. Exhales slightly longer than inhales amplify the calming effect.”,
+    “backgroundColor”: “#D1D8E8”,
+    “createdAt”: { “$date”: “2025-04-26T03:02:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “physiology”,
+    “vagus nerve”,
+    “HRV”,
+    “parasympathetic”,
+    “exhale emphasis”,
+    “threat bias”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 58,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c110” },
+    { “$oid”: “680c4c3b533ecbc3f962c116” },
+    { “$oid”: “680c4c3b533ecbc3f962c118” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c113”,
+    “slug”: “how-does-breathwork-influence-decisions-physiologically”,
+    “shortcuts”: [
+    “Optimal breathing rate”,
+    “Nasal vs mouth”,
+    “Exhale length”
+    ],
+    “relatedFaqSlugs”: [
+    “what-breathing-rates-support-hrv-and-clarity”,
+    “is-nasal-or-mouth-breathing-better-for-focus”,
+    “what-is-a-quick-2-minute-protocol-before-big-decisions”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c114” },
+    “category”: “practice”,
+    “question”: “What is a quick 2-minute protocol before big decisions?”,
+    “answer”: “1) Posture: Sit tall. Unclench jaw. Tongue to roof of mouth.\n2) Rate: 4-second inhale, 6-second exhale through the nose × 10 breaths.\n3) Check-in: Ask: Am I deciding from fear or from clarity?\n4) Frame: Name Self, Vision, Surroundings in one sentence each. Decide.”,
+    “backgroundColor”: “#D1E8E2”,
+    “createdAt”: { “$date”: “2025-04-26T03:02:30.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “protocol”,
+    “2 minute reset”,
+    “4-6 breathing”,
+    “decision primer”,
+    “checklist”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 93,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c111” },
+    { “$oid”: “680c4c3b533ecbc3f962c113” },
+    { “$oid”: “680c4c3b533ecbc3f962c119” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c114”,
+    “slug”: “what-is-a-quick-2-minute-protocol-before-big-decisions”,
+    “shortcuts”: [
+    “Timer for 120 seconds”,
+    “Box vs 4-6”,
+    “Use with meetings”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-the-core-framework-emotions-self-vision-surroundings”,
+    “how-does-breathwork-influence-decisions-physiologically”,
+    “how-to-break-a-fear-loop-during-high-stress”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c115” },
+    “category”: “practice”,
+    “question”: “What daily routine builds decision clarity?”,
+    “answer”: “Morning (5 min): 5-second inhale, 5-second exhale nasal breathing. Set one sentence for Vision.\n\nMidday (2 min): 4-in / 6-out to reset mood.\n\nEvening (5 min): 4-7-8 for downshifting. Journal one line each for Emotions, Self, Vision, Surroundings.”,
+    “backgroundColor”: “#D1E8E2”,
+    “createdAt”: { “$date”: “2025-04-26T03:03:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “routine”,
+    “coherent breathing”,
+    “4-7-8”,
+    “journaling”,
+    “clarity habits”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 49,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c113” },
+    { “$oid”: “680c4c3b533ecbc3f962c117” },
+    { “$oid”: “680c4c3b533ecbc3f962c11c” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c115”,
+    “slug”: “what-daily-routine-builds-decision-clarity”,
+    “shortcuts”: [
+    “5-5 coherent breathing”,
+    “4-6 midday reset”,
+    “4-7-8 wind-down”
+    ],
+    “relatedFaqSlugs”: [
+    “how-does-breathwork-influence-decisions-physiologically”,
+    “how-do-i-evaluate-a-choice-using-the-four-elements”,
+    “how-do-i-track-or-measure-progress”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c116” },
+    “category”: “science”,
+    “question”: “What breathing rates support HRV and clarity?”,
+    “answer”: “Most adults find 5–6 breaths per minute (about 5-in / 5-out or 4-in / 6-out) increases HRV and lowers arousal. The exact best rate varies. Keep exhales a touch longer when stressed.”,
+    “backgroundColor”: “#D1D8E8”,
+    “createdAt”: { “$date”: “2025-04-26T03:03:30.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “resonant breathing”,
+    “coherence”,
+    “5.5 bpm”,
+    “HRV”,
+    “exhale bias”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 57,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c113” },
+    { “$oid”: “680c4c3b533ecbc3f962c114” },
+    { “$oid”: “680c4c3b533ecbc3f962c118” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c116”,
+    “slug”: “what-breathing-rates-support-hrv-and-clarity”,
+    “shortcuts”: [
+    “Find your rate”,
+    “Use metronome”,
+    “Longer exhales”
+    ],
+    “relatedFaqSlugs”: [
+    “how-does-breathwork-influence-decisions-physiologically”,
+    “what-is-a-quick-2-minute-protocol-before-big-decisions”,
+    “is-nasal-or-mouth-breathing-better-for-focus”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c117” },
+    “category”: “practice”,
+    “question”: “How do I evaluate a choice using the four elements?”,
+    “answer”: “Write four quick checks:\n- Emotions: What do I feel? Is fear steering me?\n- Self: Does this fit my core values?\n- Vision: Does this move my long-term aim forward?\n- Surroundings: Given constraints, is timing and scope right now?”,
+    “backgroundColor”: “#D1E8E2”,
+    “createdAt”: { “$date”: “2025-04-26T03:04:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “decision rubric”,
+    “values”,
+    “context”,
+    “clarity check”,
+    “aligned action”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 66,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c111” },
+    { “$oid”: “680c4c3b533ecbc3f962c115” },
+    { “$oid”: “680c4c3b533ecbc3f962c11b” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c117”,
+    “slug”: “how-do-i-evaluate-a-choice-using-the-four-elements”,
+    “shortcuts”: [
+    “Four questions”,
+    “Tie to vision”,
+    “Scope and timing”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-the-core-framework-emotions-self-vision-surroundings”,
+    “what-daily-routine-builds-decision-clarity”,
+    “how-do-i-pair-journaling-with-breathwork”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c118” },
+    “category”: “science”,
+    “question”: “Is nasal or mouth breathing better for focus?”,
+    “answer”: “Use nasal breathing for most practice. It filters, humidifies, and produces more nitric oxide, which supports oxygen delivery and calm focus. Switch to mouth breathing only for high-intensity effort or if nasal passages are obstructed.”,
+    “backgroundColor”: “#D1D8E8”,
+    “createdAt”: { “$date”: “2025-04-26T03:04:30.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “nasal breathing”,
+    “mouth breathing”,
+    “nitric oxide”,
+    “focus”,
+    “oxygenation”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 52,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c113” },
+    { “$oid”: “680c4c3b533ecbc3f962c116” },
+    { “$oid”: “680c4c3b533ecbc3f962c114” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c118”,
+    “slug”: “is-nasal-or-mouth-breathing-better-for-focus”,
+    “shortcuts”: [
+    “Why nose matters”,
+    “When to use mouth”,
+    “Clear congestion”
+    ],
+    “relatedFaqSlugs”: [
+    “how-does-breathwork-influence-decisions-physiologically”,
+    “what-breathing-rates-support-hrv-and-clarity”,
+    “what-is-a-quick-2-minute-protocol-before-big-decisions”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c119” },
+    “category”: “practice”,
+    “question”: “How to break a fear loop during high stress?”,
+    “answer”: “Use a physiological sigh: inhale through the nose, top it off with a second short inhale, then long slow exhale through the mouth. Repeat 2–3 times. Follow with 2 minutes of 4-in / 6-out nasal breathing. Then apply the four-element check.”,
+    “backgroundColor”: “#D1E8E2”,
+    “createdAt”: { “$date”: “2025-04-26T03:05:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “physiological sigh”,
+    “panic”,
+    “fear loop”,
+    “downshift”,
+    “acute stress”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 101,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c114” },
+    { “$oid”: “680c4c3b533ecbc3f962c111” },
+    { “$oid”: “680c4c3b533ecbc3f962c112” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c119”,
+    “slug”: “how-to-break-a-fear-loop-during-high-stress”,
+    “shortcuts”: [
+    “Physiological sigh steps”,
+    “2-minute reset”,
+    “Reframe with four elements”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-a-quick-2-minute-protocol-before-big-decisions”,
+    “what-is-the-core-framework-emotions-self-vision-surroundings”,
+    “how-do-i-know-if-a-decision-is-right-or-wrong”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c11a” },
+    “category”: “safety”,
+    “question”: “What are the contraindications and safety guidelines?”,
+    “answer”: “Avoid or modify practices if you are pregnant, have uncontrolled hypertension, serious cardiac or respiratory conditions, glaucoma, or a history of fainting. Skip breath holds and aggressive techniques. Always breathe through the nose gently. If symptomatic, stop and seek medical advice.”,
+    “backgroundColor”: “#F6E3C5”,
+    “createdAt”: { “$date”: “2025-04-26T03:05:30.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “safety”,
+    “contraindications”,
+    “pregnancy”,
+    “blood pressure”,
+    “cardiac”,
+    “breath holds”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 84,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c114” },
+    { “$oid”: “680c4c3b533ecbc3f962c116” },
+    { “$oid”: “680c4c3b533ecbc3f962c118” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c11a”,
+    “slug”: “what-are-the-contraindications-and-safety-guidelines”,
+    “shortcuts”: [
+    “Who should avoid holds”,
+    “Gentle nasal focus”,
+    “When to stop”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-a-quick-2-minute-protocol-before-big-decisions”,
+    “what-breathing-rates-support-hrv-and-clarity”,
+    “is-nasal-or-mouth-breathing-better-for-focus”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c11b” },
+    “category”: “practice”,
+    “question”: “How do I pair journaling with breathwork?”,
+    “answer”: “After a 3–5 minute breathing set, write four one-liners: Emotions (state), Self (values at stake), Vision (long-term aim), Surroundings (constraints/options). Circle one next step you can take in 24 hours.”,
+    “backgroundColor”: “#D1E8E2”,
+    “createdAt”: { “$date”: “2025-04-26T03:06:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “journaling”,
+    “reflection”,
+    “clarity notes”,
+    “next action”,
+    “integration”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 37,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c117” },
+    { “$oid”: “680c4c3b533ecbc3f962c115” },
+    { “$oid”: “680c4c3b533ecbc3f962c112” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c11b”,
+    “slug”: “how-do-i-pair-journaling-with-breathwork”,
+    “shortcuts”: [
+    “Four lines template”,
+    “24-hour next step”,
+    “Evening review”
+    ],
+    “relatedFaqSlugs”: [
+    “how-do-i-evaluate-a-choice-using-the-four-elements”,
+    “what-daily-routine-builds-decision-clarity”,
+    “how-do-i-know-if-a-decision-is-right-or-wrong”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c11c” },
+    “category”: “practice”,
+    “question”: “How do I track or measure progress?”,
+    “answer”: “Track: (1) Time-to-calm after stress, (2) Clarity score 1–10 before vs after breathing, (3) Consistency days/week, (4) Outcome learning notes per decision. Optional: HRV trend from any wrist/strap sensor.”,
+    “backgroundColor”: “#D1E8E2”,
+    “createdAt”: { “$date”: “2025-04-26T03:06:30.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “measurement”,
+    “metrics”,
+    “clarity score”,
+    “HRV trend”,
+    “habit tracking”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 33,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c115” },
+    { “$oid”: “680c4c3b533ecbc3f962c113” },
+    { “$oid”: “680c4c3b533ecbc3f962c112” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c11c”,
+    “slug”: “how-do-i-track-or-measure-progress”,
+    “shortcuts”: [
+    “Time-to-calm”,
+    “Before/after clarity”,
+    “HRV optional”
+    ],
+    “relatedFaqSlugs”: [
+    “what-daily-routine-builds-decision-clarity”,
+    “how-does-breathwork-influence-decisions-physiologically”,
+    “how-do-i-know-if-a-decision-is-right-or-wrong”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c11d” },
+    “category”: “general”,
+    “question”: “Is this suitable for beginners?”,
+    “answer”: “Yes. Start with 3–5 minutes of 5-in / 5-out nasal breathing once per day. Add the 2-minute pre-decision protocol when stakes feel high. Progress gradually. Skip breath holds until experienced.”,
+    “backgroundColor”: “#E8D1D1”,
+    “createdAt”: { “$date”: “2025-04-26T03:07:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “beginners”,
+    “getting started”,
+    “simple practice”,
+    “no holds”,
+    “progression”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 46,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c110” },
+    { “$oid”: “680c4c3b533ecbc3f962c114” },
+    { “$oid”: “680c4c3b533ecbc3f962c11a” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c11d”,
+    “slug”: “is-this-suitable-for-beginners”,
+    “shortcuts”: [
+    “Start with 5-5”,
+    “Add 2-minute reset”,
+    “Avoid holds early”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-breathwork-for-decision-making”,
+    “what-is-a-quick-2-minute-protocol-before-big-decisions”,
+    “what-are-the-contraindications-and-safety-guidelines”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f962c11e” },
+    “category”: “programs”,
+    “question”: “What ongoing resources or programs support this practice?”,
+    “answer”: “Use: (1) Weekly practice plan with three 5-minute sessions and one 10-minute review, (2) Decision debrief template to capture lessons, (3) Breath metronome app set to 5–6 breaths/min, (4) Peer check-ins to reflect on Emotions, Self, Vision, Surroundings.”,
+    “backgroundColor”: “#E8D1E1”,
+    “createdAt”: { “$date”: “2025-04-26T03:07:30.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [
+    “programs”,
+    “resources”,
+    “practice plan”,
+    “templates”,
+    “accountability”
+    ],
+    “lastAccessed”: { “$date”: “2025-09-05T14:00:00.000Z” },
+    “views”: 29,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f962c115” },
+    { “$oid”: “680c4c3b533ecbc3f962c117” },
+    { “$oid”: “680c4c3b533ecbc3f962c11c” }
+    ],
+    “id”: “680c4c3b533ecbc3f962c11e”,
+    “slug”: “what-ongoing-resources-or-programs-support-this-practice”,
+    “shortcuts”: [
+    “Weekly plan”,
+    “Debrief template”,
+    “Metronome settings”
+    ],
+    “relatedFaqSlugs”: [
+    “what-daily-routine-builds-decision-clarity”,
+    “how-do-i-evaluate-a-choice-using-the-four-elements”,
+    “how-do-i-track-or-measure-progress”
+    ],
+    “answerFormat”: “markdown”
+    }
+    ]

@@ -1,0 +1,563 @@
+[
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c01” },
+    “category”: “general”,
+    “question”: “What is Swara Yoga?”,
+    “answer”: “Swara Yoga studies the flow of breath through the nostrils and its link to mind, energy, and action. It observes natural shifts in nostril dominance and aligns choices, meditation, and daily timing with those rhythms. It complements pranayama and meditation and is not a medical therapy.”,
+    “backgroundColor”: “#E8D1D1”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“swara yoga”, “nostril dominance”, “ida”, “pingala”, “sushumna”, “yoga philosophy”, “breath awareness”, “timing”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 42,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c02” },
+    { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    { “$oid”: “680c4c3b533ecbc3f9625c08” },
+    { “$oid”: “680c4c3b533ecbc3f9625c09” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c01”,
+    “slug”: “what-is-swara-yoga”,
+    “shortcuts”: [
+    “How is Swara Yoga different from pranayama?”,
+    “What are Ida, Pingala, and Sushumna?”,
+    “How do I observe nostril dominance?”,
+    “Is Swara Yoga a medical practice?”
+    ],
+    “relatedFaqSlugs”: [
+    “how-is-swara-yoga-different-from-pranayama”,
+    “what-are-ida-pingala-and-sushumna”,
+    “how-do-i-observe-nostril-dominance”,
+    “is-swara-yoga-a-medical-practice”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c02” },
+    “category”: “practice”,
+    “question”: “How is Swara Yoga different from pranayama?”,
+    “answer”: “- Swara Yoga: Observe and align with the natural breath cycle and nostril dominance across the day.\n- Pranayama: Intentional breath regulation techniques (ratios, retentions, counts).\nThey complement each other: Swara gives timing and direction; pranayama builds capacity and regulation.”,
+    “backgroundColor”: “#E8F3D6”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“swara vs pranayama”, “breathwork”, “yogic breathing”, “retention”, “kumbhaka”, “timing”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 31,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c01” },
+    { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    { “$oid”: “680c4c3b533ecbc3f9625c07” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c02”,
+    “slug”: “how-is-swara-yoga-different-from-pranayama”,
+    “shortcuts”: [
+    “Where do I start if I am new?”,
+    “How long should I practice daily?”,
+    “What is the pause between breaths?”
+    ],
+    “relatedFaqSlugs”: [
+    “how-do-i-get-started-with-the-advanced-course”,
+    “how-long-should-i-practice-daily”,
+    “what-is-the-pause-between-breaths”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c03” },
+    “category”: “course”,
+    “question”: “What is the structure of the Swara Yoga Advanced Course?”,
+    “answer”: “The course runs 6–9 chapters, ~30 minutes each. Chapter 1 establishes breath awareness and the sacred pause; 1a guides you to surface limiting beliefs, strengths, and a clear intention. Later chapters deepen nostril-reading, timing, energetic balance, and integration with meditation and life choices.”,
+    “backgroundColor”: “#DDEBF1”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“advanced course”, “chapters”, “duration”, “curriculum”, “guided meditation”, “limiting beliefs”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 27,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c04” },
+    { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    { “$oid”: “680c4c3b533ecbc3f9625c10” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c03”,
+    “slug”: “what-is-the-structure-of-the-swara-yoga-advanced-course”,
+    “shortcuts”: [
+    “Who is this course for?”,
+    “What will I learn?”,
+    “How do sessions begin?”
+    ],
+    “relatedFaqSlugs”: [
+    “who-is-the-advanced-course-for”,
+    “what-will-i-learn-in-the-advanced-course”,
+    “how-do-sessions-begin”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c04” },
+    “category”: “course”,
+    “question”: “Who is the Advanced Course for?”,
+    “answer”: “Practitioners who already meditate or have basic breath awareness and want a systematic framework to align actions with breath cycles. Suitable for teachers, coaches, and serious students. Not designed as a replacement for therapy or medical care.”,
+    “backgroundColor”: “#DDEBF1”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“eligibility”, “prerequisites”, “who is it for”, “teachers”, “coaches”, “meditators”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 19,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c03” },
+    { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    { “$oid”: “680c4c3b533ecbc3f9625c12” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c04”,
+    “slug”: “who-is-the-advanced-course-for”,
+    “shortcuts”: [
+    “What are the prerequisites?”,
+    “Is this medical therapy?”,
+    “Can beginners join?”
+    ],
+    “relatedFaqSlugs”: [
+    “what-are-the-prerequisites”,
+    “is-swara-yoga-a-medical-practice”,
+    “can-beginners-join”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    “category”: “philosophy”,
+    “question”: “What are Ida, Pingala, and Sushumna?”,
+    “answer”: “- Ida (left nostril): cooling, receptive, reflective qualities.\n- Pingala (right nostril): warming, active, expressive qualities.\n- Sushumna (both open or balanced): centered awareness fit for meditation and insight.\nSwara practice refines awareness of these modes and their appropriate use.”,
+    “backgroundColor”: “#F3E8D6”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“ida”, “pingala”, “sushumna”, “nadis”, “left nostril”, “right nostril”, “balance”, “meditation state”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 36,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c01” },
+    { “$oid”: “680c4c3b533ecbc3f9625c08” },
+    { “$oid”: “680c4c3b533ecbc3f9625c10” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c05”,
+    “slug”: “what-are-ida-pingala-and-sushumna”,
+    “shortcuts”: [
+    “How do I observe nostril dominance?”,
+    “When is Sushumna likely to appear?”,
+    “How do these relate to daily timing?”
+    ],
+    “relatedFaqSlugs”: [
+    “how-do-i-observe-nostril-dominance”,
+    “when-does-sushumna-appear”,
+    “how-do-breath-rhythms-guide-daily-timing”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    “category”: “course”,
+    “question”: “What will I learn in the Advanced Course?”,
+    “answer”: “- Read and journal nostril patterns.\n- Match breath states to tasks, conversations, and rest.\n- Use the pause between breaths for clarity and choice.\n- Integrate with meditation and gentle pranayama.\n- Identify limiting beliefs and set a living intention.”,
+    “backgroundColor”: “#DDEBF1”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“learning outcomes”, “journal”, “intention”, “pause”, “integration”, “timing”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 29,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c03” },
+    { “$oid”: “680c4c3b533ecbc3f9625c11” },
+    { “$oid”: “680c4c3b533ecbc3f9625c10” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c06”,
+    “slug”: “what-will-i-learn-in-the-advanced-course”,
+    “shortcuts”: [
+    “How do I journal breath patterns?”,
+    “How to use the pause?”,
+    “How do I integrate with meditation?”
+    ],
+    “relatedFaqSlugs”: [
+    “how-do-i-journal-breath-patterns”,
+    “what-is-the-pause-between-breaths”,
+    “how-do-i-integrate-swara-yoga-with-meditation-and-life”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c07” },
+    “category”: “practice”,
+    “question”: “How do sessions begin?”,
+    “answer”: “Close the eyes. Take slow, conscious breaths. Feel the rise and fall. Notice the sacred pause after exhale and before inhale. Let intention surface before technique. Then observe which nostril is more open and proceed accordingly.”,
+    “backgroundColor”: “#E8F3D6”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“opening”, “sacred pause”, “settling”, “intention”, “awareness practice”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 24,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c03” },
+    { “$oid”: “680c4c3b533ecbc3f9625c09” },
+    { “$oid”: “680c4c3b533ecbc3f9625c11” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c07”,
+    “slug”: “how-do-sessions-begin”,
+    “shortcuts”: [
+    “What is the sacred pause?”,
+    “How to set intention?”,
+    “How to observe nostril dominance?”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-the-pause-between-breaths”,
+    “how-do-i-set-an-intention-for-this-course”,
+    “how-do-i-observe-nostril-dominance”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c08” },
+    “category”: “practice”,
+    “question”: “How do I observe nostril dominance?”,
+    “answer”: “Lightly place a finger under the nose. Exhale gently and feel which side has more flow. Or alternate-cover each nostril during a soft inhale. Note left, right, or both. Record the state, time, activity, and mood in your journal.”,
+    “backgroundColor”: “#E8F3D6”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“nostril check”, “dominance”, “breath test”, “journal”, “self-observation”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 33,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    { “$oid”: “680c4c3b533ecbc3f9625c11” },
+    { “$oid”: “680c4c3b533ecbc3f9625c16” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c08”,
+    “slug”: “how-do-i-observe-nostril-dominance”,
+    “shortcuts”: [
+    “What do left, right, and both indicate?”,
+    “How often should I check?”,
+    “What if my nose is blocked?”
+    ],
+    “relatedFaqSlugs”: [
+    “what-are-ida-pingala-and-sushumna”,
+    “how-often-should-i-check-nostril-dominance”,
+    “how-do-i-handle-a-blocked-nostril”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c09” },
+    “category”: “philosophy”,
+    “question”: “What is the pause between breaths?”,
+    “answer”: “The natural still point after exhale and before inhale. In Swara practice it is a portal to clarity and choice. Rest attention there without strain. Do not force retentions unless you are trained and symptom-free.”,
+    “backgroundColor”: “#F3E8D6”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“kumbhaka”, “pause”, “stillness”, “awareness”, “decision clarity”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 40,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c07” },
+    { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    { “$oid”: “680c4c3b533ecbc3f9625c14” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c09”,
+    “slug”: “what-is-the-pause-between-breaths”,
+    “shortcuts”: [
+    “How do I rest attention in the pause?”,
+    “Is retention required?”,
+    “Can the pause reduce reactivity?”
+    ],
+    “relatedFaqSlugs”: [
+    “how-do-i-rest-attention-in-the-pause”,
+    “is-retention-required”,
+    “can-the-pause-reduce-reactivity”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c10” },
+    “category”: “practice”,
+    “question”: “How do breath rhythms guide daily timing?”,
+    “answer”: “- Left active (Ida): reflective tasks, study, design, listening.\n- Right active (Pingala): outreach, presenting, workouts, decisive tasks.\n- Both balanced (Sushumna): meditation, visioning, key choices.\nTreat this as guidance, not dogma.”,
+    “backgroundColor”: “#E8F3D6”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“timing”, “productivity”, “task selection”, “alignment”, “decision-making”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 38,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    { “$oid”: “680c4c3b533ecbc3f9625c08” },
+    { “$oid”: “680c4c3b533ecbc3f9625c11” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c10”,
+    “slug”: “how-do-breath-rhythms-guide-daily-timing”,
+    “shortcuts”: [
+    “What should I do in Sushumna?”,
+    “How strictly should I follow this?”,
+    “How do I log timing choices?”
+    ],
+    “relatedFaqSlugs”: [
+    “when-does-sushumna-appear”,
+    “how-strict-should-i-be-with-swara-guidance”,
+    “how-do-i-journal-breath-patterns”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c11” },
+    “category”: “practice”,
+    “question”: “How do I journal breath patterns?”,
+    “answer”: “Use a simple table: Time | State (L/R/Both) | Activity | Mood | Notes. Check every 60–90 minutes, plus before important actions. Review weekly for patterns that inform scheduling and practice.”,
+    “backgroundColor”: “#E8F3D6”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“journal”, “tracking”, “template”, “reflection”, “review”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 22,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    { “$oid”: “680c4c3b533ecbc3f9625c08” },
+    { “$oid”: “680c4c3b533ecbc3f9625c10” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c11”,
+    “slug”: “how-do-i-journal-breath-patterns”,
+    “shortcuts”: [
+    “How often should I check nostrils?”,
+    “How do I use the data?”,
+    “Do I need an app?”
+    ],
+    “relatedFaqSlugs”: [
+    “how-often-should-i-check-nostril-dominance”,
+    “how-to-use-journal-insights”,
+    “do-i-need-an-app-to-track”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c12” },
+    “category”: “safety”,
+    “question”: “Is Swara Yoga a medical practice?”,
+    “answer”: “No. It is an awareness-based yogic method. It does not diagnose or treat disease. Consult a clinician for medical concerns. Skip breath retentions if pregnant, post-surgery, or with cardiovascular, respiratory, or panic symptoms.”,
+    “backgroundColor”: “#F9E0E0”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“medical disclaimer”, “contraindications”, “safety”, “retention warning”, “pregnancy”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 45,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c04” },
+    { “$oid”: “680c4c3b533ecbc3f9625c14” },
+    { “$oid”: “680c4c3b533ecbc3f9625c17” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c12”,
+    “slug”: “is-swara-yoga-a-medical-practice”,
+    “shortcuts”: [
+    “Who should avoid retentions?”,
+    “What if I feel dizzy?”,
+    “When to seek medical advice?”
+    ],
+    “relatedFaqSlugs”: [
+    “who-should-avoid-retentions”,
+    “what-if-i-feel-dizzy-or-uncomfortable”,
+    “when-should-i-seek-medical-advice”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c13” },
+    “category”: “science”,
+    “question”: “How does nasal breathing affect the nervous system?”,
+    “answer”: “Nasal breathing filters, humidifies, and modulates airflow. Left-dominant breathing often correlates with calmer, reflective states. Right-dominant with alert, task-ready states. Balanced flow supports focused presence. Treat correlations as tendencies, not rules.”,
+    “backgroundColor”: “#DDE7F9”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“nasal cycle”, “autonomic balance”, “parasympathetic”, “sympathetic”, “focus”, “alertness”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 34,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c05” },
+    { “$oid”: “680c4c3b533ecbc3f9625c10” },
+    { “$oid”: “680c4c3b533ecbc3f9625c15” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c13”,
+    “slug”: “how-does-nasal-breathing-affect-the-nervous-system”,
+    “shortcuts”: [
+    “Can Swara Yoga reduce anxiety?”,
+    “What is the nasal cycle?”,
+    “Why nose breathing over mouth breathing?”
+    ],
+    “relatedFaqSlugs”: [
+    “can-swara-yoga-help-with-anxiety”,
+    “what-is-the-nasal-cycle”,
+    “why-is-nasal-breathing-preferred”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c14” },
+    “category”: “practice”,
+    “question”: “How long should I practice daily?”,
+    “answer”: “Start with 10–15 minutes of observation and journaling. Add 5–10 minutes of gentle pranayama or meditation. Increase gradually to 30 minutes as capacity and schedule allow.”,
+    “backgroundColor”: “#E8F3D6”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“duration”, “daily practice”, “habit”, “schedule”, “consistency”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 21,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c07” },
+    { “$oid”: “680c4c3b533ecbc3f9625c11” },
+    { “$oid”: “680c4c3b533ecbc3f9625c17” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c14”,
+    “slug”: “how-long-should-i-practice-daily”,
+    “shortcuts”: [
+    “What time of day is best?”,
+    “How do I build consistency?”,
+    “What if I miss a day?”
+    ],
+    “relatedFaqSlugs”: [
+    “what-time-of-day-is-best-for-swara-practice”,
+    “how-do-i-build-consistency”,
+    “what-if-i-miss-a-day”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c15” },
+    “category”: “practice”,
+    “question”: “Can Swara Yoga help with anxiety?”,
+    “answer”: “It can support self-regulation by training attention, slowing breath, and aligning tasks with capacity. It is an adjunct, not a treatment. If anxiety persists or worsens, consult a clinician.”,
+    “backgroundColor”: “#E8F3D6”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“anxiety”, “self-regulation”, “stress”, “breath awareness”, “adjunct”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 47,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c13” },
+    { “$oid”: “680c4c3b533ecbc3f9625c09” },
+    { “$oid”: “680c4c3b533ecbc3f9625c12” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c15”,
+    “slug”: “can-swara-yoga-help-with-anxiety”,
+    “shortcuts”: [
+    “How to use the pause during stress?”,
+    “Which nostril supports calming?”,
+    “When should I seek help?”
+    ],
+    “relatedFaqSlugs”: [
+    “what-is-the-pause-between-breaths”,
+    “what-do-left-right-and-both-indicate”,
+    “when-should-i-seek-medical-advice”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c16” },
+    “category”: “troubleshooting”,
+    “question”: “How do I handle a blocked nostril?”,
+    “answer”: “Sit tall. Use gentle alternate nostril breathing without retention for 2–3 minutes. Try a warm shower or saline rinse later. Avoid force. If congestion is chronic or infected, see a clinician.”,
+    “backgroundColor”: “#FFF3CD”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“congestion”, “blocked nostril”, “nadi shodhana”, “saline rinse”, “gentle practice”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 26,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c08” },
+    { “$oid”: “680c4c3b533ecbc3f9625c12” },
+    { “$oid”: “680c4c3b533ecbc3f9625c17” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c16”,
+    “slug”: “how-do-i-handle-a-blocked-nostril”,
+    “shortcuts”: [
+    “Should I practice when sick?”,
+    “Is mouth breathing okay temporarily?”,
+    “How do I clear gently?”
+    ],
+    “relatedFaqSlugs”: [
+    “should-i-practice-when-sick”,
+    “is-mouth-breathing-okay-temporarily”,
+    “how-do-i-clear-gently”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c17” },
+    “category”: “safety”,
+    “question”: “What if I feel dizzy or uncomfortable?”,
+    “answer”: “Stop practice. Sit or lie down. Breathe normally through the nose. Hydrate. Skip retentions and strong techniques for 24 hours. Resume only when symptom-free. Seek medical advice if symptoms persist.”,
+    “backgroundColor”: “#F9E0E0”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“dizziness”, “overexertion”, “safety break”, “when to stop”, “medical advice”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 30,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c12” },
+    { “$oid”: “680c4c3b533ecbc3f9625c14” },
+    { “$oid”: “680c4c3b533ecbc3f9625c16” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c17”,
+    “slug”: “what-if-i-feel-dizzy-or-uncomfortable”,
+    “shortcuts”: [
+    “Is this normal for beginners?”,
+    “Should I skip retentions?”,
+    “How do I resume safely?”
+    ],
+    “relatedFaqSlugs”: [
+    “can-beginners-join”,
+    “is-retention-required”,
+    “how-do-i-resume-safely”
+    ],
+    “answerFormat”: “markdown”
+    },
+    {
+    “_id”: { “$oid”: “680c4c3b533ecbc3f9625c18” },
+    “category”: “logistics”,
+    “question”: “How do I set an intention for this course?”,
+    “answer”: “Write one sentence that names your why and the felt sense you seek. Example: I practice to act with clarity and kindness under stress. Revisit it at the start of each session and refine as insights arise.”,
+    “backgroundColor”: “#EDE7F6”,
+    “createdAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “updatedAt”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “__v”: 0,
+    “keywords”: [“intention”, “goal setting”, “why”, “reflection”, “course setup”],
+    “lastAccessed”: { “$date”: “2025-09-05T12:00:00.000Z” },
+    “views”: 18,
+    “relatedFaqIds”: [
+    { “$oid”: “680c4c3b533ecbc3f9625c03” },
+    { “$oid”: “680c4c3b533ecbc3f9625c06” },
+    { “$oid”: “680c4c3b533ecbc3f9625c07” }
+    ],
+    “id”: “680c4c3b533ecbc3f9625c18”,
+    “slug”: “how-do-i-set-an-intention-for-this-course”,
+    “shortcuts”: [
+    “How do sessions begin?”,
+    “What will I learn?”,
+    “How to journal insights?”
+    ],
+    “relatedFaqSlugs”: [
+    “how-do-sessions-begin”,
+    “what-will-i-learn-in-the-advanced-course”,
+    “how-do-i-journal-breath-patterns”
+    ],
+    “answerFormat”: “markdown”
+    }
+    ]

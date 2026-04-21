@@ -1,0 +1,3225 @@
+[{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bf1"
+  },
+  "category": "general",
+  "question": "What is The School of Breath?",
+  "answer": "The School of Breath is a comprehensive platform dedicated to teaching breathing techniques, meditation, and mindfulness practices to improve overall wellbeing.",
+  "backgroundColor": "#E8D1D1",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.617Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T14:28:27.008Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "abhi",
+    "breath",
+    "breathing techniques",
+    "meditation",
+    "mindfulness",
+    "neuroscience",
+    "platform",
+    "school of breath",
+    "wellbeing",
+    "yogic wisdom",
+    "what is school of breath",
+    "about school of breath",
+    "school of breath info"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-25T14:28:25.770Z"
+  },
+  "views": 35,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf2"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf4"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf5"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf6"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bf2"
+  },
+  "category": "general",
+  "question": "What is the mission of Meditate with Abhi and The School of Breath?",
+  "answer": "Namaste. Our mission is to empower individuals to cultivate inner peace and wellbeing through the transformative power of meditation and pranayama breathing.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.617Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "abhi",
+    "accessible",
+    "breath",
+    "empower",
+    "engaging",
+    "inner peace",
+    "meditate",
+    "meditate with abhi",
+    "meditation",
+    "mission",
+    "pranayama",
+    "school of breath",
+    "well-being",
+    "what is mission",
+    "mission meditate with abhi",
+    "mission school of breath",
+    "meditate with abhi mission",
+    "school of breath mission"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-28T22:23:17.987Z"
+  },
+  "views": 8,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf1"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfd"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf4"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfc"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bf4"
+  },
+  "category": "general",
+  "question": "Who is Abhi Duggal?",
+  "answer": "Abhi Duggal is the founder of Meditate with Abhi and The School of Breath. He is a renowned holistic health expert and a certified meditation teacher with over 25 years of experience.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.617Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "abhi",
+    "abhi duggal",
+    "background",
+    "duggal",
+    "experience",
+    "founder",
+    "holistic health expert",
+    "meditate with abhi",
+    "meditation teacher",
+    "school of breath",
+    "who is abhi",
+    "about abhi",
+    "abhi background",
+    "abhi duggal info",
+    "who abhi"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-21T03:35:37.046Z"
+  },
+  "views": 7,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf2"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf1"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfd"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfc"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bf5"
+  },
+  "category": "general",
+  "question": "How to get started?",
+  "answer": "If you’re a Holistic Awakening member, you can dive into our courses either in the app or on the web.",
+  "backgroundColor": "#E8D1D1",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "begin",
+    "breathing techniques",
+    "community",
+    "courses",
+    "get started",
+    "how to",
+    "how to start",
+    "introductory",
+    "membership",
+    "programs",
+    "started",
+    "get access",
+    "start now",
+    "how to begin",
+    "getting started",
+    "start today"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-21T03:54:46.005Z"
+  },
+  "views": 24,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfd"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfc"
+    },
+    {
+      "$oid": "681876d229c2c33c040017a2"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c1f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bf6"
+  },
+  "category": "general",
+  "question": "What content is on the youtube channels?",
+  "answer": ".",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "abhi",
+    "available",
+    "binaural beats",
+    "breath",
+    "breathwork",
+    "chakra",
+    "channels",
+    "consciousness",
+    "content",
+    "mantras",
+    "meditate",
+    "meditate with abhi",
+    "podcast",
+    "school of breath",
+    "school of mantra",
+    "sleep music",
+    "solfeggio frequencies",
+    "sound healing",
+    "sound meditation",
+    "spiritual awareness",
+    "spiritual wisdom",
+    "youtube",
+    "youtube channels",
+    "what content youtube",
+    "channels content",
+    "youtube videos",
+    "youtube channel content"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-13T07:34:41.070Z"
+  },
+  "views": 1,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfd"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfc"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf2"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfb"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bf7"
+  },
+  "category": "general",
+  "question": "Are the videos suitable for beginners or different experience levels?",
+  "answer": "Yes! Our content is crafted for all levels. Whether you're just starting or have been practicing for years, you'll find resources to match your journey.",
+  "backgroundColor": "#E8D1D1",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-24T22:37:51.764Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "all levels",
+    "beginners",
+    "cater",
+    "content difficulty",
+    "different",
+    "experience",
+    "experience levels",
+    "levels",
+    "suitable",
+    "videos",
+    "videos beginners",
+    "beginner videos",
+    "suitable for beginners",
+    "video levels"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-24T22:37:51.762Z"
+  },
+  "views": 5,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf6"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfb"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c10"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c05"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bf8"
+  },
+  "category": "general",
+  "question": "Are meditations and breathing exercises guided or unguided?",
+  "answer": "Both! We offer guided meditations with instructions from Abhi, as well as unguided options for selfpaced silent practice.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "breathing",
+    "breathing exercises",
+    "exercises",
+    "guided",
+    "instructions",
+    "meditations",
+    "silent practice",
+    "unguided",
+    "guided meditations",
+    "unguided meditations",
+    "meditation guided",
+    "breathing guided"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-19T07:54:02.982Z"
+  },
+  "views": 2,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf9"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf2"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfd"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bf9"
+  },
+  "category": "general",
+  "question": "Do guided meditations provide specific instructions or visualizations?",
+  "answer": "Yes. Abhi uses calming guidance, imagery, and metaphors to help you focus, relax, and deepen your meditation experience.",
+  "backgroundColor": "#E8D1D1",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "focus",
+    "guidance",
+    "guided",
+    "guided meditations",
+    "imagery",
+    "instructions",
+    "meditations",
+    "metaphors",
+    "provide",
+    "relax",
+    "specific",
+    "visualizations",
+    "meditation instructions",
+    "meditation visualizations",
+    "guided meditation instructions",
+    "guided meditation visualizations"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-21T03:56:09.089Z"
+  },
+  "views": 3,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf8"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfa"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf2"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bfa"
+  },
+  "category": "general",
+  "question": "Are there background sounds or music in meditations?",
+  "answer": "Yes � Many of our meditations include peaceful background music, nature sounds, mantras, or solfeggio frequencies to enhance your experience.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "available",
+    "background",
+    "background sounds",
+    "exist",
+    "included",
+    "mantras",
+    "meditations",
+    "music",
+    "nature sounds",
+    "provided",
+    "solfeggio frequencies",
+    "sounds",
+    "there",
+    "meditation music",
+    "meditation sounds",
+    "background music meditations",
+    "sounds in meditation"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-21T03:51:10.903Z"
+  },
+  "views": 2,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf9"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf6"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf8"
+    },
+    {
+      "$oid": "6812551529c2c33c04001790"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bfb"
+  },
+  "category": "general",
+  "question": "Can I use the youtube channel content for personal or professional use?",
+  "answer": "The use of content from Meditate with Abhi and The School of Breath channels depends on the type of content and your intended use.",
+  "backgroundColor": "#E8D1D1",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "channels",
+    "commercial use",
+    "content",
+    "content use",
+    "credit",
+    "license",
+    "meditation teacher",
+    "personal",
+    "personal use",
+    "professional",
+    "professional use",
+    "restrictions",
+    "wellness professional",
+    "youtube",
+    "youtube channels",
+    "use youtube content",
+    "youtube content personal use",
+    "youtube content professional use",
+    "can use youtube videos",
+    "youtube commercial use"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf6"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfd"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfc"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bfc"
+  },
+  "category": "general",
+  "question": "How to stay updated on new content and offerings?",
+  "answer": "Subscribe to our newsletter, follow our YouTube channels and social media, enable app notifications, and check the website announcements.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "content",
+    "email list",
+    "facebook",
+    "how to",
+    "instagram",
+    "new content",
+    "newsletter",
+    "notifications",
+    "offerings",
+    "social media",
+    "stay",
+    "stay updated",
+    "twitter",
+    "updated",
+    "updates",
+    "website",
+    "youtube channels",
+    "get updates",
+    "new offerings",
+    "how to get updates",
+    "stay informed"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-19T06:09:39.524Z"
+  },
+  "views": 1,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfd"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf2"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf6"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bfd"
+  },
+  "category": "general",
+  "question": "How to support Meditate with Abhi and The School of Breath?",
+  "answer": "You can support Meditate with Abhi and The School of Breath in several ways: Subscribe to our YouTube channels, like, comment, and share videos to help reach more people.",
+  "backgroundColor": "#E8D1D1",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "abhi",
+    "breath",
+    "community",
+    "donate",
+    "engage",
+    "help",
+    "how to",
+    "meditate",
+    "meditate with abhi",
+    "membership",
+    "purchase courses",
+    "reviews",
+    "school of breath",
+    "share",
+    "support",
+    "work",
+    "support meditate with abhi",
+    "support school of breath",
+    "how to help",
+    "support abhi",
+    "support school of breath"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfc"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf2"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf6"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c1e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bfe"
+  },
+  "category": "general",
+  "question": "What are the benefits of breathwork?",
+  "answer": "Breathwork reduces stress, improves mental clarity, boosts energy, supports emotional healing, enhances sleep, and strengthens your immune system.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "advantages",
+    "benefits",
+    "boost energy",
+    "breathwork",
+    "breathwork benefits",
+    "emotional healing",
+    "enhance sleep",
+    "immune system",
+    "mental clarity",
+    "pranayama benefits",
+    "reduce stress",
+    "benefits of breathwork",
+    "breathwork advantages",
+    "why breathwork",
+    "effects of breathwork"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-19T07:39:39.588Z"
+  },
+  "views": 11,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf1"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfd"
+    },
+    {
+      "$oid": "681253ad29c2c33c0400178b"
+    },
+    {
+      "$oid": "6812553f29c2c33c04001791"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625bff"
+  },
+  "category": "general",
+  "question": "How often should I practice?",
+  "answer": "Even 5–10 minutes a day can bring big results. � Start small and stay consistent. As you grow more comfortable, you can increase the duration gradually.",
+  "backgroundColor": "#E8D1D1",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "breathwork frequency",
+    "consistency",
+    "daily practice",
+    "duration",
+    "how often",
+    "practice",
+    "practice frequency",
+    "should",
+    "how often practice",
+    "meditation frequency",
+    "practice duration",
+    "how many times practice",
+    "practice schedule"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-21T05:07:26.456Z"
+  },
+  "views": 13,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf1"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf2"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c00"
+  },
+  "category": "membership",
+  "question": "What is the Holistic Membership?",
+  "answer": "The Holistic Awakening Membership is a comprehensive program that provides access to courses on breathwork, meditation, sleep mastery, and more.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "community",
+    "courses access",
+    "holistic",
+    "holistic awakening membership",
+    "holistic membership",
+    "membership",
+    "new content",
+    "program",
+    "subscription",
+    "what is holistic membership",
+    "about holistic membership",
+    "holistic membership info",
+    "membership program"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-21T00:45:56.397Z"
+  },
+  "views": 55,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c06"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c01"
+    },
+    {
+      "$oid": "68187d7a29c2c33c040017a3"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c04"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c01"
+  },
+  "category": "membership",
+  "question": "What courses are included in the Holistic Membership?",
+  "answer": "The Holistic Membership includes a variety of courses designed to help you transform your health and wellbeing.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "course access holistic membership",
+    "courses",
+    "holistic",
+    "holistic awakening membership",
+    "holistic awakening program",
+    "holistic membership courses",
+    "how to enroll",
+    "included",
+    "list of courses",
+    "membership",
+    "what courses",
+    "whats in the",
+    "which courses do",
+    "courses in membership",
+    "available courses",
+    "membership courses list",
+    "holistic membership content"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-21T00:37:15.657Z"
+  },
+  "views": 4,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c04"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c00"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0e"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c06"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c02"
+  },
+  "category": "membership",
+  "question": "How much does the Holistic Membership cost?",
+  "answer": "For Indian Clients:\\n• ₹1,878 INR per month\\n• ₹12,812 INR per year\\n\\nFor Other Clients:\\n• $21.99 per month\\n• $149.99 per year\\n\\n*Please note that these prices might be subject to change.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "cost",
+    "cost info",
+    "cost membership",
+    "cost structure",
+    "holistic",
+    "holistic membership cost",
+    "how much",
+    "indian price",
+    "international price",
+    "membership",
+    "membership cost",
+    "membership price",
+    "monthly cost",
+    "price",
+    "price info",
+    "subscription fee",
+    "yearly cost",
+    "how much membership",
+    "membership price please",
+    "holistic membership price",
+    "cost of membership",
+    "price of membership"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-19T07:42:34.525Z"
+  },
+  "views": 4,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c07"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c00"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c06"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c05"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c03"
+  },
+  "category": "membership",
+  "question": "What is the refund policy for the Holistic Membership?",
+  "answer": "WE OFFER A 30DAY MONEY BACK GUARANTEE\\nWe are sure you'll love the Breathing membership. If, for some reason, you're not happy with the course, send us an email and we'll refund the full amount.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "30-day guarantee",
+    "cancel subscription",
+    "holistic",
+    "holistic membership refund",
+    "membership",
+    "money back guarantee",
+    "policy",
+    "refund",
+    "refund policy",
+    "satisfaction guarantee",
+    "membership refund",
+    "holistic membership policy",
+    "cancellation policy"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-21T00:46:23.962Z"
+  },
+  "views": 2,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c00"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c04"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c01"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c06"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c04"
+  },
+  "category": "membership",
+  "question": "What is the format of the courses in the Holistic Membership?",
+  "answer": "The courses in the Holistic Membership are typically delivered in a digital format, making them accessible online.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "app access",
+    "breathwork sessions",
+    "community access",
+    "course format",
+    "course structure",
+    "courses",
+    "delivery method",
+    "digital format",
+    "format",
+    "guided meditations",
+    "holistic",
+    "holistic membership format",
+    "membership",
+    "online access",
+    "pdfs",
+    "school of breath app",
+    "video lessons",
+    "whatsapp community",
+    "workbooks",
+    "membership course format",
+    "holistic membership structure",
+    "course delivery"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c01"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c06"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0f"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c00"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c05"
+  },
+  "category": "membership",
+  "question": "Is the Holistic Membership suitable for beginners?",
+  "answer": "Yes, the Holistic Membership is definitely suitable for beginners. It offers beginnerfriendly content, gradual progression, guided instructions, and a supportive community.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "beginner-friendly",
+    "beginners",
+    "entry level",
+    "holistic",
+    "holistic membership beginners",
+    "membership",
+    "new members",
+    "starting out",
+    "suitable",
+    "suitable for beginners",
+    "membership for beginners",
+    "is membership for beginners",
+    "beginner friendly membership"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c07"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c06"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c00"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c08"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c06"
+  },
+  "category": "membership",
+  "question": "What are the benefits of joining the Holistic Membership?",
+  "answer": "Comprehensive learning: Access to a wide range of courses. \\nStructured learning path: Easy to follow and progress. \\nGuided practices: Access to guided meditations and breathwork sessions.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "advantages",
+    "benefits",
+    "community support",
+    "convenience",
+    "course access",
+    "guided practices",
+    "holistic",
+    "holistic membership benefits",
+    "joining",
+    "membership",
+    "ongoing learning",
+    "perks",
+    "reasons to join",
+    "sleep improvement",
+    "stress reduction",
+    "well-being",
+    "benefits of membership",
+    "membership perks",
+    "why join membership",
+    "what you get membership"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c00"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c04"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0a"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c01"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c07"
+  },
+  "category": "membership",
+  "question": "How long does it take to complete the Holistic Membership?",
+  "answer": "The Holistic Membership is designed to be an ongoing journey. You can progress at your own pace and focus on the areas that resonate most with you.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "complete",
+    "completion time",
+    "holistic",
+    "holistic membership duration",
+    "how long",
+    "how to",
+    "long",
+    "membership",
+    "no deadline",
+    "ongoing",
+    "self-paced",
+    "subscription length",
+    "take",
+    "timeframe",
+    "how long membership",
+    "membership duration",
+    "complete membership"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c00"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c05"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c06"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c02"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c08"
+  },
+  "category": "membership",
+  "question": "What happens if I miss a live session?",
+  "answer": "The Holistic Membership primarily focuses on ondemand content, such as prerecorded video lessons, guided meditations, and downloadable materials.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "catch up",
+    "happens",
+    "holistic membership",
+    "live",
+    "live events",
+    "miss",
+    "missed live session",
+    "on-demand content",
+    "recordings",
+    "session",
+    "what happens",
+    "miss live session",
+    "if i miss session",
+    "live session recording"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-19T07:51:16.550Z"
+  },
+  "views": 1,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c06"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c04"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c07"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c00"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c09"
+  },
+  "category": "membership",
+  "question": "What kind of support is available for members?",
+  "answer": "Community Access: Connect with other members in a private online community to share experiences, ask questions, and get support.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "+919253392845",
+    "assistance",
+    "available",
+    "community access",
+    "connect@meditatewithabhi.com",
+    "email support",
+    "help",
+    "holistic membership support",
+    "member support",
+    "members",
+    "support",
+    "whatsapp community",
+    "whatsapp support",
+    "membership support",
+    "support for members",
+    "get support"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c04"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c01"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c13"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c1e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c0a"
+  },
+  "category": "membership",
+  "question": "What are the membership benefits?",
+  "answer": "Members get full access to all courses, exclusive content, guided practices, community forums, personalized support, and priority in future updates and offerings.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "advantages",
+    "benefits",
+    "community forums",
+    "exclusive content",
+    "full access",
+    "guided practices",
+    "holistic membership perks",
+    "membership",
+    "membership benefits",
+    "personalized support",
+    "priority updates",
+    "benefits of membership",
+    "membership perks",
+    "what membership gives",
+    "membership advantages"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-13T18:19:48.884Z"
+  },
+  "views": 1,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c06"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c04"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c00"
+    },
+    {
+      "$oid": "68187d7a29c2c33c040017a3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c0b"
+  },
+  "category": "membership",
+  "question": "Can I cancel my membership anytime?",
+  "answer": "Yes, you can cancel anytime. Your access will remain valid until the end of your current billing cycle. No hidden fees.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "anytime",
+    "anytime cancellation",
+    "billing cycle",
+    "cancel",
+    "cancel membership",
+    "cancellation policy",
+    "membership",
+    "stop subscription",
+    "unsubscribe",
+    "can cancel membership",
+    "cancel subscription",
+    "how to cancel membership"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-21T03:49:30.792Z"
+  },
+  "views": 2,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0a"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c03"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c07"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c08"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c0d"
+  },
+  "category": "membership",
+  "question": "What payment methods do you accept?",
+  "answer": "We accept:\\n• � Credit/Debit Cards\\n• � UPI (India only)\\n• � PayPal (Global)\\nAll payments are secured through trusted platforms.",
+  "backgroundColor": "#F2E8E8",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "accept",
+    "accepted payments",
+    "billing",
+    "cost",
+    "credit card",
+    "debit card",
+    "how to pay",
+    "methods",
+    "offer",
+    "payment methods",
+    "paypal",
+    "provide",
+    "what payment",
+    "payment options",
+    "payment types",
+    "how to pay membership"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-20T23:27:16.236Z"
+  },
+  "views": 7,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c02"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c09"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c1c"
+    },
+    {
+      "$oid": "681876d229c2c33c040017a0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c0e"
+  },
+  "category": "course",
+  "question": "What courses are offered and included in Holistic Awakening Membership?",
+  "answer": "Core Online Courses:\\n9 Day Breathwork Challenge for Energy, Health, and Vitality\\nIdeal for beginners — learn breathwork techniques to boost energy, improve health, and ignite vitality.",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "abhi",
+    "awakening",
+    "bliss course",
+    "breath",
+    "breathwork challenge",
+    "course list",
+    "courses",
+    "courses offered",
+    "currently",
+    "holistic",
+    "holistic membership courses",
+    "included",
+    "kundalini awakening",
+    "meditate",
+    "meditate with abhi courses",
+    "meditation course",
+    "membership",
+    "offered",
+    "school of breath courses",
+    "swara yoga",
+    "third eye activation",
+    "what courses",
+    "courses included",
+    "available courses",
+    "membership courses list",
+    "list of courses"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "6812519e29c2c33c04001786"
+    },
+    {
+      "$oid": "681253ad29c2c33c0400178b"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c01"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c04"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c0f"
+  },
+  "category": "course",
+  "question": "What is the format of the courses?",
+  "answer": ".",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "app access",
+    "breathwork sessions",
+    "community access",
+    "course format",
+    "course structure",
+    "courses",
+    "delivery method",
+    "digital courses",
+    "format",
+    "guided meditations",
+    "pdfs",
+    "video lessons",
+    "workbooks",
+    "course structure",
+    "course delivery",
+    "online course format",
+    "digital format courses"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-16T03:42:18.419Z"
+  },
+  "views": 9,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0e"
+    },
+    {
+      "$oid": "6818a15b29c2c33c040017a5"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c04"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c14"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c10"
+  },
+  "category": "course",
+  "question": "What is the level of difficulty of the courses?",
+  "answer": "The courses are beginnerfriendly but also support advanced growth.",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "advanced",
+    "beginner-friendly",
+    "course difficulty",
+    "course suitability",
+    "courses",
+    "difficulty",
+    "level",
+    "self-paced",
+    "step-by-step",
+    "course level",
+    "beginner courses",
+    "advanced courses",
+    "course intensity"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0f"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0e"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf7"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c05"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c11"
+  },
+  "category": "course",
+  "question": "Can I access the courses on multiple devices?",
+  "answer": "Yes. You can access the courses on computer, laptop, tablet, or smartphone.",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "access",
+    "app access",
+    "can i access",
+    "computer",
+    "course access",
+    "courses",
+    "device compatibility",
+    "devices",
+    "ipad",
+    "iphone",
+    "laptop",
+    "multiple",
+    "multiple devices",
+    "offline access",
+    "smartphone",
+    "tablet",
+    "website access",
+    "access courses multiple devices",
+    "courses on phone",
+    "courses on tablet"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-13T05:31:44.509Z"
+  },
+  "views": 1,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c12"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0f"
+    },
+    {
+      "$oid": "681876d229c2c33c040017a1"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c16"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c12"
+  },
+  "category": "course",
+  "question": "What are the technical requirements for accessing the courses?",
+  "answer": ".",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "accessing",
+    "app requirements",
+    "browser requirements",
+    "chrome",
+    "course access",
+    "courses",
+    "device requirements",
+    "edge",
+    "firefox",
+    "internet connection",
+    "requirements",
+    "safari",
+    "system requirements",
+    "technical",
+    "technical requirements",
+    "access courses requirements",
+    "technical requirements courses",
+    "course tech requirements"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c11"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0f"
+    },
+    {
+      "$oid": "681876d229c2c33c040017a1"
+    },
+    {
+      "$oid": "681876d229c2c33c0400179c"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c13"
+  },
+  "category": "course",
+  "question": "What kind of support is available for members?",
+  "answer": "• Community Support: Join our private WhatsApp community to connect with others\\n• Personal Help: Reach out to the support team at connect@meditatewithabhi.",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "+919253392845",
+    "assistance",
+    "available",
+    "community support",
+    "connect@meditatewithabhi.com",
+    "course support",
+    "email support",
+    "help",
+    "member support",
+    "members",
+    "support",
+    "whatsapp community",
+    "whatsapp support",
+    "course member support",
+    "support for members",
+    "get course support"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-13T07:24:06.420Z"
+  },
+  "views": 2,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0f"
+    },
+    {
+      "$oid": "6818a15b29c2c33c040017a5"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c09"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c1e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c14"
+  },
+  "category": "app",
+  "question": "What is the School of Breath app and what does it do?",
+  "answer": "The School of Breath app includes access to a variety of courses and resources related to meditation, breathwork, and yoga.",
+  "backgroundColor": "#F5F1E6",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "app definition",
+    "app features",
+    "breath",
+    "breathwork sessions",
+    "course access",
+    "guided meditations",
+    "membership access",
+    "mobile app",
+    "progress tracking",
+    "school of breath app",
+    "sleep music",
+    "what is app",
+    "about app",
+    "school of breath app info",
+    "app capabilities"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c15"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c17"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf1"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c01"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c15"
+  },
+  "category": "app",
+  "question": "Is The School of Breath app free?",
+  "answer": "Yes, the School of Breath app itself is free to download from the App Store (iOS) and Google Play Store (Android).",
+  "backgroundColor": "#F5F1E6",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "app free",
+    "app store",
+    "breath",
+    "breath app cost",
+    "download",
+    "download app",
+    "free",
+    "free download",
+    "google play",
+    "membership required",
+    "school of breath",
+    "unlock features",
+    "is app free",
+    "school of breath app cost",
+    "app price"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-19T07:44:41.971Z"
+  },
+  "views": 1,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c14"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c17"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c16"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c16"
+  },
+  "category": "app",
+  "question": "What devices is the app compatible with?",
+  "answer": "The School of Breath App is designed to be compatible with a wide range of devices. Here's a breakdown:\\niOS: Compatible with iPhones and iPads running the latest iOS versions.",
+  "backgroundColor": "#F5F1E6",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "android",
+    "app device compatibility",
+    "app requirements",
+    "compatible",
+    "devices",
+    "ipad",
+    "iphone",
+    "operating system",
+    "smartphone",
+    "supported devices",
+    "tablet",
+    "what devices",
+    "app devices",
+    "app compatible devices",
+    "devices for app"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-18T03:23:21.323Z"
+  },
+  "views": 1,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c18"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c17"
+    },
+    {
+      "$oid": "681876d229c2c33c0400179e"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c15"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c17"
+  },
+  "category": "app",
+  "question": "How to download and install the School of Breath App?",
+  "answer": "Access the App Store:\\niOS: Open the App Store on your iPhone or iPad. \\nAndroid: Open the Google Play Store on your Android device.",
+  "backgroundColor": "#F5F1E6",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "android download",
+    "app store",
+    "breath",
+    "breath app download",
+    "download",
+    "download app",
+    "free download",
+    "get app",
+    "google play",
+    "how to",
+    "install",
+    "install app",
+    "installation steps",
+    "ios download",
+    "school of breath",
+    "how to download app",
+    "how to install app",
+    "get school of breath app"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-13T02:31:22.154Z"
+  },
+  "views": 3,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c15"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c14"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c16"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c18"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c18"
+  },
+  "category": "app",
+  "question": "What are the technical requirements for using the School of Breath App?",
+  "answer": "Minimum Requirements:\\nOperating System:\\niOS: iOS 13 or later (for iPhones and iPads)\\nAndroid: Android 8. 0 (Oreo) or later\\nDevice: Smartphone or tablet with sufficient processing power and memory.",
+  "backgroundColor": "#F5F1E6",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "android requirements",
+    "app system requirements",
+    "app technical requirements",
+    "breath",
+    "device requirements",
+    "internet connection",
+    "minimum",
+    "minimum requirements",
+    "requirements",
+    "school",
+    "storage",
+    "system",
+    "technical",
+    "using",
+    "app requirements",
+    "technical requirements app",
+    "school of breath app requirements",
+    "app minimum requirements"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c16"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c17"
+    },
+    {
+      "$oid": "681876d229c2c33c0400179e"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c12"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c19"
+  },
+  "category": "app",
+  "question": "How do I use the app?",
+  "answer": ".",
+  "backgroundColor": "#F5F1E6",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "app features",
+    "app guide",
+    "browse courses",
+    "community",
+    "download content",
+    "how to",
+    "how to use app",
+    "live sessions",
+    "offline use",
+    "set reminders",
+    "track progress",
+    "use app",
+    "how the app works",
+    "app usage guide"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-16T03:21:17.804Z"
+  },
+  "views": 6,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c1d"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c14"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf5"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c1a"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c1a"
+  },
+  "category": "app",
+  "question": "Can I track my course progress in the app?",
+  "answer": "Yes! The app tracks your course progress if you are a holistic awakening member.",
+  "backgroundColor": "#F5F1E6",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "app progress",
+    "can i track",
+    "course",
+    "holistic awakening member",
+    "monitor progress",
+    "progress",
+    "progress tracking",
+    "track",
+    "track course progress",
+    "track progress app",
+    "course progress tracking app",
+    "app track progress"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-15T08:06:14.985Z"
+  },
+  "views": 1,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c19"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c14"
+    },
+    {
+      "$oid": "6818a15b29c2c33c040017a5"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c1b"
+  },
+  "category": "app",
+  "question": "How to set reminders in the app?",
+  "answer": "Set practice reminders by:\\n1. Go to Profile > Settings\\n2. Tap on 'Reminders'\\n3. Choose your preferred time\\n4. Set how often you want reminders\\n5. Make sure notifications are enabled.",
+  "backgroundColor": "#F5F1E6",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "app reminders",
+    "daily reminders",
+    "how to",
+    "notifications",
+    "practice reminders",
+    "profile settings",
+    "reminders",
+    "set reminders",
+    "set reminders app",
+    "how to set reminders",
+    "app notifications"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-19T07:48:27.899Z"
+  },
+  "views": 1,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c19"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c1f"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c22"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c24"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c1c"
+  },
+  "category": "app",
+  "question": "Is my data secure in the app?",
+  "answer": "Yes, all data is encrypted and securely stored. We never share personal data without your consent. You can view our privacy policy within the app settings.",
+  "backgroundColor": "#F5F1E6",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "app security",
+    "consent",
+    "data",
+    "data security",
+    "encrypted data",
+    "is my",
+    "is my data",
+    "personal data",
+    "privacy",
+    "privacy policy",
+    "secure",
+    "secure storage",
+    "data secure app",
+    "app data security",
+    "is app data safe"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c1d"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c19"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c1a"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c25"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c1d"
+  },
+  "category": "app",
+  "question": "Can I use the app offline?",
+  "answer": "Yes! Download content (like meditations, music, or courses) while online. You'll find your downloads inside the app even when you're offline. Progress will sync once you're back online.",
+  "backgroundColor": "#F5F1E6",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "app offline",
+    "download content",
+    "no internet",
+    "offline",
+    "offline access",
+    "offline use",
+    "sync progress",
+    "use app offline",
+    "app without internet",
+    "offline app usage",
+    "download for offline"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c19"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c1a"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c11"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c15"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c1e"
+  },
+  "category": "app",
+  "question": "What kind of support is available for app users?",
+  "answer": "The School of Breath App offers multiple ways to get help and support:\\nInApp Support: You find a dedicated button within the app to directly message the support team via WhatsApp.",
+  "backgroundColor": "#F5F1E6",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "+919253392845",
+    "app support",
+    "assistance",
+    "available",
+    "breath",
+    "breath app help",
+    "connect@meditatewithabhi.com",
+    "email support",
+    "in-app support",
+    "phone support",
+    "school of breath",
+    "support",
+    "users",
+    "whatsapp support",
+    "support for app",
+    "app user help",
+    "get app support",
+    "contact support app"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c14"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c17"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c09"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c13"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680c4c3b533ecbc3f9625c1f"
+  },
+  "category": "app",
+  "question": "How to reset my password?",
+  "answer": "How to Reset Your Password:\\nForgot Your Password. \\nIf you’ve forgotten your password, resetting it is simple:\\n\\n1. Go to the Login Page: Visit the main login page for your account. \\n2.",
+  "backgroundColor": "#F5F1E6",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.622Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "account recovery",
+    "app login",
+    "can't log in",
+    "forgot",
+    "forgot password",
+    "how to",
+    "login issues",
+    "login problem",
+    "login trouble",
+    "password",
+    "password help",
+    "password reset",
+    "reset",
+    "reset link",
+    "reset password",
+    "how to reset password",
+    "forgot my password",
+    "cant login",
+    "trouble logging in"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-15T01:39:08.037Z"
+  },
+  "views": 1,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c1e"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c14"
+    },
+    {
+      "$oid": "681876d229c2c33c040017a2"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6812519e29c2c33c04001786"
+  },
+  "category": "course",
+  "question": "Recommended Course Sequence?",
+  "answer": "9 Day Breathwork Challenge\\n Swara Yoga\\n Meditation\\n Bliss\\n Third Eye\\n Kundalini Awakening Part 1 and 2.",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "bliss",
+    "breathwork challenge",
+    "course",
+    "course order",
+    "kundalini awakening",
+    "learning path",
+    "meditation",
+    "recommended",
+    "recommended course",
+    "recommended course sequence",
+    "sequence",
+    "swara yoga",
+    "third eye",
+    "course sequence",
+    "course order",
+    "order of courses",
+    "suggested course order"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0e"
+    },
+    {
+      "$oid": "681254ce29c2c33c0400178f"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c01"
+    },
+    {
+      "$oid": "681253ad29c2c33c0400178b"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681253ad29c2c33c0400178b"
+  },
+  "category": "course",
+  "question": "About 9-Day Breathwork Challenge for Energy, Health & Vitality?",
+  "answer": "Purpose: Boost energy, enhance health, and cultivate vitality through daily breathwork practices.",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "9 day breathwork challenge",
+    "9day",
+    "about 9 day",
+    "about breathwork",
+    "about breathwork challenge",
+    "breathing techniques",
+    "breathwork",
+    "challenge",
+    "daily topics",
+    "day breathwork course",
+    "energy",
+    "energy health vitality",
+    "health",
+    "how to improve immunity",
+    "how to reduce stress",
+    "starter course",
+    "to do first",
+    "vitality",
+    "which course to",
+    "9 day challenge",
+    "breathwork challenge energy",
+    "energy breathwork",
+    "health breathwork"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-15T08:05:52.979Z"
+  },
+  "views": 4,
+  "relatedFaqIds": [
+    {
+      "$oid": "6812553f29c2c33c04001791"
+    },
+    {
+      "$oid": "6812548029c2c33c0400178d"
+    },
+    {
+      "$oid": "6812546129c2c33c0400178c"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6812546129c2c33c0400178c"
+  },
+  "category": "course",
+  "question": "About 9-Day Meditation Challenge?",
+  "answer": "Purpose: Develop a consistent meditation practice to achieve inner peace and mental clarity. ​\\n\\nDaywise Topics:\\n\\nDay 1: Understanding the basics of meditation. \\nDay 2: Breath awareness techniques.",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "9 day meditation challenge",
+    "9day",
+    "about 9 day",
+    "about meditation",
+    "about meditation challenge",
+    "about meditation course",
+    "challenge",
+    "daily topics",
+    "day meditation challenge",
+    "do you teach meditation",
+    "how to start",
+    "meditation",
+    "meditation practice",
+    "start meditation course",
+    "teach me meditation",
+    "tell me about",
+    "meditation course",
+    "meditation journey",
+    "9 day challenge",
+    "meditation challenge",
+    "meditation course details"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "6812553f29c2c33c04001791"
+    },
+    {
+      "$oid": "681253ad29c2c33c0400178b"
+    },
+    {
+      "$oid": "6812548029c2c33c0400178d"
+    },
+    {
+      "$oid": "6812519e29c2c33c04001786"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6812548029c2c33c0400178d"
+  },
+  "category": "course",
+  "question": "About 12-Day Breathwork Challenge for Third Eye Activation?",
+  "answer": "� 12Day Breathwork Challenge for Third Eye Activation\\nPurpose: Awaken intuition and enhance spiritual awareness by activating the Third Eye chakra.",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "12-day breathwork challenge",
+    "12day",
+    "about breathwork",
+    "about breathwork challenge",
+    "activation",
+    "awaken intuition",
+    "breathwork",
+    "chakra activation",
+    "challenge",
+    "course details",
+    "crown chakra",
+    "daily topics",
+    "heart chakra",
+    "pineal gland",
+    "root chakra",
+    "sacral chakra",
+    "solar plexus",
+    "spiritual awareness",
+    "third",
+    "third eye activation",
+    "throat chakra",
+    "12 day challenge",
+    "breathwork third eye",
+    "third eye course",
+    "chakra activation course"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-21T03:52:52.684Z"
+  },
+  "views": 2,
+  "relatedFaqIds": [
+    {
+      "$oid": "6812553f29c2c33c04001791"
+    },
+    {
+      "$oid": "681253ad29c2c33c0400178b"
+    },
+    {
+      "$oid": "681254aa29c2c33c0400178e"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681254aa29c2c33c0400178e"
+  },
+  "category": "course",
+  "question": "About 21-Week Kundalini Awakening Course?",
+  "answer": "Purpose: Safely awaken and harness Kundalini energy for spiritual growth and transformation. ​\\n\\nWeekwise Topics:\\n\\nWeeks 1–3: Third Eye Chakra – Developing intuitive clarity.",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "21-week kundalini awakening",
+    "21week",
+    "about kundalini",
+    "about kundalini awakening",
+    "awaken kundalini",
+    "awakening",
+    "chakra activation schedule",
+    "course",
+    "crown chakra",
+    "how to activate chakra",
+    "how to register",
+    "in kundalini awakening",
+    "in kundalini course",
+    "kundalini",
+    "kundalini awakening course",
+    "kundalini course",
+    "kundalini course topics",
+    "kundalini course week-by-week outline",
+    "kundalini program benefits",
+    "schedule kundalini course",
+    "third eye chakra",
+    "throat chakra",
+    "transformation through kundalini awakening",
+    "what do i",
+    "what is the",
+    "kundalini course details",
+    "21 week course",
+    "kundalini program",
+    "awaken energy"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "6812548029c2c33c0400178d"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0e"
+    },
+    {
+      "$oid": "6812519e29c2c33c04001786"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c01"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681254ce29c2c33c0400178f"
+  },
+  "category": "course",
+  "question": "About Swara Yoga Course?",
+  "answer": "� Swara Yoga Course\\nPurpose: Understand and harmonize the flow of breath through nostrils to align with natural rhythms and enhance wellbeing. ​\\n\\nKey Topics:\\nIntroduction to Swara Yoga principles.",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "about swara",
+    "about swara yoga",
+    "check nostril dominance",
+    "course",
+    "daily nostril check journal",
+    "dominant nostril breathing practice",
+    "harmonize breath",
+    "how to check",
+    "mental clarity",
+    "nostril breathing",
+    "nostril dominance benefits",
+    "swara",
+    "swara yoga course",
+    "swara yoga course outline",
+    "swara yoga course structure",
+    "swara yoga pattern analysis",
+    "swara yoga principles",
+    "tell me about",
+    "yoga",
+    "swara yoga details",
+    "swara yoga info",
+    "nostril flow"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "6812519e29c2c33c04001786"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0e"
+    },
+    {
+      "$oid": "6818a15b29c2c33c040017a5"
+    },
+    {
+      "$oid": "681253ad29c2c33c0400178b"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6812551529c2c33c04001790"
+  },
+  "category": "course",
+  "question": "About Sleep Mastery Course?",
+  "answer": "Goal: Help you fall asleep faster, sleep deeper, and wake up feeling refreshed — without pills. \\nPerfect for: Anyone struggling with insomnia, racing thoughts, or low energy due to poor sleep.",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "4-7-8 breathing",
+    "about sleep",
+    "about sleep mastery",
+    "alternate nostril breathing",
+    "binaural beats",
+    "breathing for sleep",
+    "circadian rhythm",
+    "course",
+    "course details",
+    "fall asleep faster",
+    "guided meditations",
+    "improve sleep",
+    "insomnia",
+    "mastery",
+    "racing thoughts",
+    "sleep",
+    "sleep mastery course",
+    "sleep music",
+    "sleep patterns",
+    "sleep tools",
+    "solfeggio frequencies",
+    "sleep course",
+    "master sleep",
+    "get better sleep",
+    "insomnia help"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "681253ad29c2c33c0400178b"
+    },
+    {
+      "$oid": "6812553f29c2c33c04001791"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0e"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c01"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6812553f29c2c33c04001791"
+  },
+  "category": "course",
+  "question": "About 9-Day Breathwork Challenge for Unconditional Bliss?",
+  "answer": "Goal: Release emotional blockages and create a daily feeling of peace and joy from the inside out. \\nPerfect for: Anyone feeling stuck, stressed, or seeking a deeper sense of fulfillment.",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "9-day breathwork challenge",
+    "9day",
+    "abount bliss course",
+    "about 9-day breathwork",
+    "about breathwork",
+    "about breathwork challenge",
+    "bliss",
+    "bliss course",
+    "breathwork",
+    "challenge",
+    "course",
+    "course details",
+    "emotional blockages",
+    "gratitude",
+    "release emotions",
+    "self-compassion",
+    "somatic release",
+    "unconditional",
+    "unconditional bliss course",
+    "9 day challenge",
+    "breathwork bliss",
+    "bliss challenge",
+    "emotional release"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-15T07:57:45.519Z"
+  },
+  "views": 2,
+  "relatedFaqIds": [
+    {
+      "$oid": "681253ad29c2c33c0400178b"
+    },
+    {
+      "$oid": "6812546129c2c33c0400178c"
+    },
+    {
+      "$oid": "6812548029c2c33c0400178d"
+    },
+    {
+      "$oid": "6812519e29c2c33c04001786"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68187d7a29c2c33c040017a3"
+  },
+  "category": "membership",
+  "question": "How does YouTube membership differ from Holistic Awakening Membership?",
+  "answer": "YouTube membership unlocks our channel’s introductory content—think sleepmusic videos �, short guidedbreathing snippets, and spiritual talks to spark your curiosity.",
+  "backgroundColor": "#E8D1D1",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "and holistic membership",
+    "awakening",
+    "differ",
+    "difference between youtube",
+    "from",
+    "holistic",
+    "holistic awakening membership",
+    "how does",
+    "how to",
+    "membership",
+    "youtube",
+    "youtube membership",
+    "youtube membership vs",
+    "youtube vs holistic membership",
+    "membership differences",
+    "holistic membership vs youtube",
+    "compare memberships"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c00"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c01"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c06"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c04"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681883e329c2c33c040017a4"
+  },
+  "category": "general",
+  "question": "How to schedule a personal consultation with Abhi, session options and fees?",
+  "answer": "Thank you for your interest in a personal consultation with Abhi. To book your session, please visit:\\nhttps://www. meditatewithabhi.",
+  "backgroundColor": "#E8D1D1",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "15 minute meeting abhi",
+    "30 minute meeting abhi",
+    "45 minute meeting abhi",
+    "5 call package abhi",
+    "abhi",
+    "abhi duggal booking link",
+    "abhi duggal call",
+    "available",
+    "book a call",
+    "book call abhi",
+    "bookacall",
+    "call abhi duggal",
+    "call booking link",
+    "consultation",
+    "consultation options meditate",
+    "consultation options the",
+    "fees",
+    "how to",
+    "how to book",
+    "i contact abhi",
+    "personal",
+    "personal consultation abhi",
+    "schedule",
+    "schedule consultation abhi",
+    "school of breath",
+    "session",
+    "talk to abhi",
+    "how to schedule consultation",
+    "consultation fees",
+    "book consultation abhi",
+    "abhi consultation price"
+  ],
+  "lastAccessed": {
+    "$date": "2025-08-15T01:38:02.535Z"
+  },
+  "views": 19,
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfd"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bfc"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c09"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625bf4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6818a15b29c2c33c040017a5"
+  },
+  "category": "course",
+  "question": "Do you provide Journals for tracking course progress?",
+  "answer": ".",
+  "backgroundColor": "#D4B88C",
+  "createdAt": {
+    "$date": "2025-04-26T03:00:11.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T05:08:53.441Z"
+  },
+  "__v": 0,
+  "keywords": [
+    "breathwork journal",
+    "course",
+    "course journals",
+    "course progress",
+    "provide",
+    "progress",
+    "progress tracker",
+    "progress tracking",
+    "tracking",
+    "tracking journals",
+    "workbook",
+    "provide journals",
+    "journals for tracking",
+    "course workbooks",
+    "do you provide journals",
+    "journals included"
+  ],
+  "relatedFaqIds": [
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0e"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c0f"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c01"
+    },
+    {
+      "$oid": "680c4c3b533ecbc3f9625c04"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68bb460bbbc85b0187a3b81a"
+  },
+  "category": "others",
+  "question": "Can I access Meditate with Abhi courses without the app?",
+  "answer": "Yes. All courses are available both through the School of Breath app and directly via the website meditatewithabhi.com.",
+  "backgroundColor": "#E8EAF6",
+  "keywords": [
+    "courses",
+    "website access",
+    "school of breath",
+    "meditatewithabhi.com",
+    "without app"
+  ],
+  "views": 0,
+  "relatedFaqIds": [],
+  "slug": "can-i-access-meditate-with-abhi-courses-without-the-app",
+  "shortcuts": [
+    "How to get started?",
+    "What is the Holistic Membership?"
+  ],
+  "relatedFaqSlugs": [
+    "how-to-get-started",
+    "what-is-the-holistic-membership"
+  ],
+  "answerFormat": "markdown"
+},
+{
+  "_id": {
+    "$oid": "68bb460bbbc85b0187a3b81b"
+  },
+  "category": "others",
+  "question": "Do I need prior yoga or meditation experience?",
+  "answer": "No. The content is designed for beginners as well as advanced practitioners, with step-by-step guidance for every level.",
+  "backgroundColor": "#F3E5F5",
+  "keywords": [
+    "yoga",
+    "meditation",
+    "beginners",
+    "experience levels",
+    "guided practices"
+  ],
+  "views": 0,
+  "relatedFaqIds": [],
+  "slug": "do-i-need-prior-yoga-or-meditation-experience",
+  "shortcuts": [
+    "Are the videos suitable for beginners or different experience levels?"
+  ],
+  "relatedFaqSlugs": [
+    "are-the-videos-suitable-for-beginners-or-different-experience-levels"
+  ],
+  "answerFormat": "markdown"
+},
+{
+  "_id": {
+    "$oid": "68bb460bbbc85b0187a3b81c"
+  },
+  "category": "others",
+  "question": "What languages are the courses available in?",
+  "answer": "Currently, courses and guided meditations are offered in English, with selected mantras available in Sanskrit with English guidance.",
+  "backgroundColor": "#FFF3E0",
+  "keywords": [
+    "languages",
+    "English",
+    "Sanskrit",
+    "guided meditations",
+    "translation"
+  ],
+  "views": 0,
+  "relatedFaqIds": [],
+  "slug": "what-languages-are-the-courses-available-in",
+  "shortcuts": [
+    "What content is on the youtube channels?"
+  ],
+  "relatedFaqSlugs": [
+    "what-content-is-on-the-youtube-channels"
+  ],
+  "answerFormat": "markdown"
+},
+{
+  "_id": {
+    "$oid": "68bb460bbbc85b0187a3b81d"
+  },
+  "category": "others",
+  "question": "Can I download meditations or breathwork sessions offline?",
+  "answer": "Yes. The School of Breath app allows you to download sessions for offline use if you are a member.",
+  "backgroundColor": "#E0F2F1",
+  "keywords": [
+    "offline access",
+    "app features",
+    "download meditations",
+    "download sessions"
+  ],
+  "views": 0,
+  "relatedFaqIds": [],
+  "slug": "can-i-download-meditations-or-breathwork-sessions-offline",
+  "shortcuts": [
+    "How do I use the app?"
+  ],
+  "relatedFaqSlugs": [
+    "how-do-i-use-the-app"
+  ],
+  "answerFormat": "markdown"
+},
+{
+  "_id": {
+    "$oid": "68bb460bbbc85b0187a3b81e"
+  },
+  "category": "others",
+  "question": "How do I know which course to start with?",
+  "answer": "Most members begin with the 9-Day Breathwork Challenge or the 9-Day Meditation Challenge as foundations before moving into advanced practices like Swara Yoga or Kundalini Awakening.",
+  "backgroundColor": "#F1F8E9",
+  "keywords": [
+    "beginner courses",
+    "which course first",
+    "9-day breathwork",
+    "9-day meditation"
+  ],
+  "views": 0,
+  "relatedFaqIds": [],
+  "slug": "how-do-i-know-which-course-to-start-with",
+  "shortcuts": [
+    "How to get started?"
+  ],
+  "relatedFaqSlugs": [
+    "how-to-get-started"
+  ],
+  "answerFormat": "markdown"
+},
+{
+  "_id": {
+    "$oid": "68bb460bbbc85b0187a3b81f"
+  },
+  "category": "others",
+  "question": "Is there scientific research behind the practices?",
+  "answer": "Yes. Many techniques are supported by modern neuroscience and sleep research while also rooted in ancient yogic wisdom.",
+  "backgroundColor": "#E8D1D1",
+  "keywords": [
+    "science",
+    "neuroscience",
+    "research",
+    "sleep science",
+    "yogic wisdom"
+  ],
+  "views": 0,
+  "relatedFaqIds": [],
+  "slug": "is-there-scientific-research-behind-the-practices",
+  "shortcuts": [
+    "What are the benefits of breathwork?"
+  ],
+  "relatedFaqSlugs": [
+    "what-are-the-benefits-of-breathwork"
+  ],
+  "answerFormat": "markdown"
+},
+{
+  "_id": {
+    "$oid": "68bb460bbbc85b0187a3b820"
+  },
+  "category": "others",
+  "question": "Can I share my membership with family members?",
+  "answer": "Membership accounts are individual. Each person should create their own login to track progress and access personalized features.",
+  "backgroundColor": "#FBE9E7",
+  "keywords": [
+    "membership sharing",
+    "family access",
+    "accounts",
+    "login"
+  ],
+  "views": 0,
+  "relatedFaqIds": [],
+  "slug": "can-i-share-my-membership-with-family-members",
+  "shortcuts": [
+    "What is the Holistic Membership?"
+  ],
+  "relatedFaqSlugs": [
+    "what-is-the-holistic-membership"
+  ],
+  "answerFormat": "markdown"
+},
+{
+  "_id": {
+    "$oid": "68bb460bbbc85b0187a3b821"
+  },
+  "category": "others",
+  "question": "Do you provide certifications for completing courses?",
+  "answer": "No we don’t provide certificates",
+  "backgroundColor": "#FFFDE7",
+  "keywords": [
+    "certificate",
+    "certification",
+    "teacher training",
+    "swara yoga"
+  ],
+  "views": 0,
+  "relatedFaqIds": [],
+  "slug": "do-you-provide-certifications-for-completing-courses",
+  "shortcuts": [
+    "What courses are offered and included in Holistic Awakening Membership?"
+  ],
+  "relatedFaqSlugs": [
+    "what-courses-are-offered-and-included-in-holistic-awakening-membership"
+  ],
+  "answerFormat": "markdown"
+},
+{
+  "_id": {
+    "$oid": "68bb460bbbc85b0187a3b822"
+  },
+  "category": "others",
+  "question": "What devices are supported for the app?",
+  "answer": "The School of Breath app is available on iOS and Android devices, and courses can also be accessed on laptops or tablets through the website.",
+  "backgroundColor": "#F1F8E9",
+  "keywords": [
+    "app devices",
+    "ios",
+    "android",
+    "laptop",
+    "tablet"
+  ],
+  "views": 0,
+  "relatedFaqIds": [],
+  "slug": "what-devices-are-supported-for-the-app",
+  "shortcuts": [
+    "What is the School of Breath app and what does it do?"
+  ],
+  "relatedFaqSlugs": [
+    "what-is-the-school-of-breath-app-and-what-does-it-do"
+  ],
+  "answerFormat": "markdown"
+},
+{
+  "_id": {
+    "$oid": "68bb460bbbc85b0187a3b823"
+  },
+  "category": "others",
+  "question": "Can I request personal guidance from Abhi Duggal?",
+  "answer": "Yes. Abhi offers one-to-one transformative sessions by appointment. Details are shared on the website and membership updates.",
+  "backgroundColor": "#EDE7F6",
+  "keywords": [
+    "Abhi Duggal",
+    "personal session",
+    "1:1 guidance",
+    "transformative session"
+  ],
+  "views": 0,
+  "relatedFaqIds": [],
+  "slug": "can-i-request-personal-guidance-from-abhi-duggal",
+  "shortcuts": [
+    "Who is Abhi Duggal?"
+  ],
+  "relatedFaqSlugs": [
+    "who-is-abhi-duggal"
+  ],
+  "answerFormat": "markdown"
+},
+{
+  "_id": {
+    "$oid": "68bb460bbbc85b0187a3b824"
+  },
+  "category": "others",
+  "question": "How do I stay motivated to finish a course?",
+  "answer": "Daily reminders, downloadable journals, and supportive WhatsApp/Telegram groups are included to keep you consistent and accountable.",
+  "backgroundColor": "#E0F7FA",
+  "keywords": [
+    "motivation",
+    "journals",
+    "reminders",
+    "whatsapp group",
+    "telegram group"
+  ],
+  "views": 0,
+  "relatedFaqIds": [],
+  "slug": "how-do-i-stay-motivated-to-finish-a-course",
+  "shortcuts": [
+    "How to support Meditate with Abhi and The School of Breath?"
+  ],
+  "relatedFaqSlugs": [
+    "how-to-support-meditate-with-abhi-and-the-school-of-breath"
+  ],
+  "answerFormat": "markdown"
+},
+{
+  "_id": {
+    "$oid": "68bb460bbbc85b0187a3b825"
+  },
+  "category": "others",
+  "question": "Are the mantras safe for anyone to chant?",
+  "answer": "Yes. The School of Mantras channel and related courses provide simple, safe, and repeatable chants that anyone can practice for focus and inner peace.",
+  "backgroundColor": "#FFEBEE",
+  "keywords": [
+    "mantras",
+    "chanting",
+    "safety",
+    "school of mantras",
+    "practice"
+  ],
+  "views": 0,
+  "relatedFaqIds": [],
+  "slug": "are-the-mantras-safe-for-anyone-to-chant",
+  "shortcuts": [
+    "What content is on the youtube channels?"
+  ],
+  "relatedFaqSlugs": [
+    "what-content-is-on-the-youtube-channels"
+  ],
+  "answerFormat": "markdown"
+}]
