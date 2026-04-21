@@ -2,7 +2,7 @@
 module.exports = {
     port: process.env.PORT || 8085,
     allowedOrigins: ["*"],
-    mongoUri: "mongodb+srv://abhishekdug:AONgv5tx5LngDz4b@cluster0.j2ulcwk.mongodb.net/school-of-breath?retryWrites=true&w=majority",
+    mongoUri: process.env.NODE_ENV == 'production' ? process.env.MONGO_PRODUCTION : (process.env.MONGO_URI || "mongodb+srv://abhishekdug:AONgv5tx5LngDz4b@cluster0.j2ulcwk.mongodb.net/test?retryWrites=true&w=majority"),
     jwtSecret: process.env.JWT_SECRET || '5up3r53cr3tk3y',
     resendKey: process.env.ROSSI_KEY,
     sendEmail: process.env.SEND_EMAIL,
