@@ -348,6 +348,10 @@ exports.getLeaderboard = async (req, res) => {
  */
 exports.postSession = async (req, res) => {
   try {
+    const userId      = req.user._id;
+    const email       = req.user.email;
+    const displayName = req.user.fullName || email;
+
     const {
       clientSessionId,
       sessionType,
@@ -368,7 +372,7 @@ exports.postSession = async (req, res) => {
     }
 
     // ── Idempotency check ──────────────────────────────────────────────────
-    const existingEvent = await SessionEvent.findOne({ clientSessionId }).lean();
+    const existingEvent = await SessionEvent.findOne({ userId, clientSessionId }).lean();
     if (existingEvent) {
       return res.status(200).json({
         success:    true,
@@ -388,10 +392,6 @@ exports.postSession = async (req, res) => {
     }
 
     // ── Load or create gamification profile ───────────────────────────────
-    const userId      = req.user._id;
-    const email       = req.user.email;
-    const displayName = req.user.fullName || email;
-
     let profile = await Gamification.findOne({ userId });
     if (!profile) {
       profile = new Gamification({ userId, email, displayName });
@@ -589,23 +589,38 @@ exports.postSession = async (req, res) => {
     };
 
     // ── Persist session event (audit + idempotency store) ─────────────────
-    await SessionEvent.create({
-      clientSessionId,
-      userId,
-      sessionType,
-      techniqueId,
-      durationSeconds,
-      completionRatio,
-      timezone,
-      localDate,
-      xpAwarded,
-      bonusBreakdown,
-      streakBefore,
-      streakAfter:  profile.currentStreak,
-      levelBefore,
-      levelAfter:   levelData.level,
-      responseSnapshot,
-    });
+    try {
+      await SessionEvent.create({
+        clientSessionId,
+        userId,
+        sessionType,
+        techniqueId,
+        durationSeconds,
+        completionRatio,
+        timezone,
+        localDate,
+        xpAwarded,
+        bonusBreakdown,
+        streakBefore,
+        streakAfter:  profile.currentStreak,
+        levelBefore,
+        levelAfter:   levelData.level,
+        responseSnapshot,
+      });
+    } catch (eventError) {
+      // Duplicate key can happen on retries/races. Return cached snapshot when available.
+      if (eventError?.code === 11000) {
+        const duplicate = await SessionEvent.findOne({ userId, clientSessionId }).lean();
+        if (duplicate?.responseSnapshot) {
+          return res.status(200).json({
+            success:    true,
+            idempotent: true,
+            data:       duplicate.responseSnapshot,
+          });
+        }
+      }
+      throw eventError;
+    }
 
     return res.status(201).json({
       success: true,
