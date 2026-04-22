@@ -67,6 +67,9 @@ const DEFAULT_CONFIG = {
     // morningRitualGraceSeconds allows slightly-short sessions to still count
     // toward the first tier to absorb timer/device/network variance.
     morningRitualGraceSeconds: 20,
+    // Optional fallback XP for short custom rituals (< first tier).
+    // This only applies when request payload includes isCustomRitual=true.
+    morningRitualShortCustomXP: 5,
     morningRitualTiers: [
       { label: 'Quick Practice', minSeconds: 540,  xp: 20 }, // 9 – 12 min
       { label: 'Self Care',      minSeconds: 720,  xp: 30 }, // 12 – 18 min

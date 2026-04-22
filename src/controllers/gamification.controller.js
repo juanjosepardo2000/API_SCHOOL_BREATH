@@ -357,6 +357,7 @@ exports.postSession = async (req, res) => {
       sessionType,
       durationSeconds,
       completionRatio  = 1,
+      isCustomRitual   = false, // true when the morning ritual was generated in custom mode
       techniqueId      = null,
       timezone         = 'UTC',
       freezeLevel           = false, // true when the user is practicing at a frozen technique level
@@ -423,12 +424,23 @@ exports.postSession = async (req, res) => {
       || completionRatio >= typeRules.minCompletionRatio;
 
     // morning_ritual: must reach at least the first duration tier (with optional grace)
+    // unless custom mode fallback is enabled for short sessions.
     let meetsRitualTier = true;
+    const morningRitualShortCustomXP = Number(config?.xpRules?.morningRitualShortCustomXP ?? 0);
+    let shortCustomMorningRitualEligible = false;
     if (sessionType === 'morning_ritual') {
       meetsRitualTier = ritualTiers.some(t => durationSeconds >= t.minSeconds);
+      shortCustomMorningRitualEligible =
+        Boolean(isCustomRitual)
+        && !meetsRitualTier
+        && meetsMinDuration
+        && meetsCompletionRatio
+        && morningRitualShortCustomXP > 0;
     }
 
-    const qualifiesForXP = meetsMinDuration && meetsCompletionRatio && meetsRitualTier;
+    const qualifiesForXP = meetsMinDuration
+      && meetsCompletionRatio
+      && (meetsRitualTier || shortCustomMorningRitualEligible);
 
     // ── Compute resets ────────────────────────────────────────────────────
     const { dailyXPEarned, dailySessionsCounted, wasReset: dailyWasReset }
@@ -470,7 +482,14 @@ exports.postSession = async (req, res) => {
           const tiers = [...ritualTiers]
             .sort((a, b) => b.minSeconds - a.minSeconds);
           const matchedTier = tiers.find(t => durationSeconds >= t.minSeconds);
-          bonusBreakdown.base = matchedTier?.xp ?? 0;
+          if (matchedTier) {
+            bonusBreakdown.base = matchedTier.xp;
+          } else if (shortCustomMorningRitualEligible) {
+            bonusBreakdown.base = morningRitualShortCustomXP;
+            bonusBreakdown.shortCustomRitual = morningRitualShortCustomXP;
+          } else {
+            bonusBreakdown.base = 0;
+          }
 
         } else if (sessionType === 'breath_training') {
           // Flat 5 XP per level/threshold completion, regardless of current level
