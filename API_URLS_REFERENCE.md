@@ -8,6 +8,7 @@ Quick reference for all API environments.
 ```
 https://api-music-iota.vercel.app
 ```
+----
 
 **Full Endpoint Example:**
 ```
