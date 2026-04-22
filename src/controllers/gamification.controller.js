@@ -486,7 +486,6 @@ exports.postSession = async (req, res) => {
             bonusBreakdown.base = matchedTier.xp;
           } else if (shortCustomMorningRitualEligible) {
             bonusBreakdown.base = morningRitualShortCustomXP;
-            bonusBreakdown.shortCustomRitual = morningRitualShortCustomXP;
           } else {
             bonusBreakdown.base = 0;
           }
