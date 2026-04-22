@@ -403,16 +403,29 @@ exports.postSession = async (req, res) => {
     const localHour    = getLocalHour(timezone, now);
     const currentMonday = getCurrentMondayString(timezone);
 
+    // ── Morning ritual tier normalization (with grace window) ─────────────
+    const morningRitualGraceSeconds = Number(config?.xpRules?.morningRitualGraceSeconds ?? 20);
+    const configuredRitualTiers = config.xpRules.morningRitualTiers ?? [];
+    const firstTierMinSeconds = configuredRitualTiers.length
+      ? Math.min(...configuredRitualTiers.map(t => t.minSeconds))
+      : null;
+    const ritualTiers = configuredRitualTiers.map((tier) => {
+      if (firstTierMinSeconds == null || tier.minSeconds !== firstTierMinSeconds) return tier;
+      return {
+        ...tier,
+        minSeconds: Math.max(0, tier.minSeconds - morningRitualGraceSeconds),
+      };
+    });
+
     // ── Check if session qualifies for XP ─────────────────────────────────
     const meetsMinDuration   = durationSeconds >= config.xpRules.minDurationSeconds;
     const meetsCompletionRatio = !typeRules.minCompletionRatio
       || completionRatio >= typeRules.minCompletionRatio;
 
-    // morning_ritual: must reach at least the first duration tier (9 min / 540 s)
+    // morning_ritual: must reach at least the first duration tier (with optional grace)
     let meetsRitualTier = true;
     if (sessionType === 'morning_ritual') {
-      const tiers = config.xpRules.morningRitualTiers ?? [];
-      meetsRitualTier = tiers.some(t => durationSeconds >= t.minSeconds);
+      meetsRitualTier = ritualTiers.some(t => durationSeconds >= t.minSeconds);
     }
 
     const qualifiesForXP = meetsMinDuration && meetsCompletionRatio && meetsRitualTier;
@@ -454,7 +467,7 @@ exports.postSession = async (req, res) => {
 
         if (sessionType === 'morning_ritual') {
           // Highest matching duration tier wins
-          const tiers = [...(config.xpRules.morningRitualTiers ?? [])]
+          const tiers = [...ritualTiers]
             .sort((a, b) => b.minSeconds - a.minSeconds);
           const matchedTier = tiers.find(t => durationSeconds >= t.minSeconds);
           bonusBreakdown.base = matchedTier?.xp ?? 0;

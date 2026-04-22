@@ -64,8 +64,11 @@ const DEFAULT_CONFIG = {
     // Duration-based XP tiers for morning_ritual.
     // The highest tier whose minSeconds ≤ durationSeconds is used.
     // Sessions below the first tier (< 540 s / 9 min) earn 0 XP.
+    // morningRitualGraceSeconds allows slightly-short sessions to still count
+    // toward the first tier to absorb timer/device/network variance.
+    morningRitualGraceSeconds: 20,
     morningRitualTiers: [
-      { label: 'Quick Practice', minSeconds: 540,  xp: 30 }, // 9 – 12 min
+      { label: 'Quick Practice', minSeconds: 540,  xp: 20 }, // 9 – 12 min
       { label: 'Self Care',      minSeconds: 720,  xp: 30 }, // 12 – 18 min
       { label: 'Expansion',      minSeconds: 1080, xp: 40 }, // 18 – 24 min
       { label: 'Ascension',      minSeconds: 1440, xp: 50 }, // 24 – 30 min
