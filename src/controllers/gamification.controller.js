@@ -713,5 +713,6 @@ function _safeConfig(config) {
     leagues:           config.leagues,
     xpRules:           config.xpRules,
     techniqueMaxLevel: config.techniqueMaxLevel,
+    rewardAudioUrl:    config.rewardAudioUrl ?? null,
   };
 }

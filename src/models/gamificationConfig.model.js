@@ -72,6 +72,17 @@ const gamificationConfigSchema = new mongoose.Schema({
   /** How many days of dailyStats to retain per user profile. */
   dailyStatsRetentionDays: { type: Number, default: 45 },
 
+  /**
+   * URL of the reward sound played on the native app when the user earns XP.
+   * Must be a short audio file (≤ 3 seconds). Stored here so it can be
+   * updated without shipping a new APK build.
+   * Defaults to the chimes asset on GCS.
+   */
+  rewardAudioUrl: {
+    type: String,
+    default: 'https://storage.googleapis.com/schoolbreathvideos/breathinstructionsabhi/VideoCues/chimes.mp3',
+  },
+
 }, {
   timestamps: true,
   collection: 'gamification_config',

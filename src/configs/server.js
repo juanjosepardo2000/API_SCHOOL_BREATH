@@ -36,6 +36,7 @@ const healthRoutes = require('../routes/health.routes')
 const adminRoutes = require('../routes/admin.routes')
 const analyticsRoutes = require('../routes/analytics.routes')
 const revenuecatRoutes = require('../routes/revenuecat.routes')
+const breathingTechniqueLevelsRoutes = require('../routes/breathingTechniqueLevels.routes')
 const app = express()
 
 // Trust proxy for rate limiting (required for Vercel deployment)
@@ -110,5 +111,6 @@ app.use('/guides', guideRoutes)
 app.use('/health', healthRoutes)
 app.use('/admin', adminRoutes)
 app.use('/analytics', analyticsRoutes)
+app.use('/breathing-sessions', breathingTechniqueLevelsRoutes)
 
 module.exports = app
